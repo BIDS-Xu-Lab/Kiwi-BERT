@@ -1,0 +1,14 @@
+-	O
+Continue	O
+coumadin	B-drug
+4	O
+mg	O
+daily	O
+and	O
+check	O
+INR	B-test
+daily	O
+until	O
+INR	B-test
+stable	O
+.	O

@@ -1,0 +1,15 @@
+R	O
+hand	O
+and	O
+arm	O
+shoulder	O
+no	O
+redness	B-problem
+,	O
+no	O
+edema	B-problem
+,	O
+no	O
+bony	B-problem
+diformity	I-problem
+.	O

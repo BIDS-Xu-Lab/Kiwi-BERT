@@ -1,0 +1,108 @@
+problem	severity	mild CI	mild	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of MS and @@mild$ CI$ who feels well, she denies any new neurological symptoms or anything that can be construed as an exacerbation.	0
+problem	negation	any new neurological symptoms	denies	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of MS and mild CI who feels well, she @denies$ @any new neurological symptoms$ or anything that can be construed as an exacerbation.	0
+problem	course	any new neurological symptoms	new	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of MS and mild CI who feels well, she denies @any @new$ neurological symptoms$ or anything that can be construed as an exacerbation.	0
+problem	severity	MS	mild	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of @MS$ and @mild$ CI who feels well, she denies any new neurological symptoms or anything that can be construed as an exacerbation.	1
+problem	negation	MS	denies	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of @MS$ and mild CI who feels well, she @denies$ any new neurological symptoms or anything that can be construed as an exacerbation.	1
+problem	course	MS	new	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of @MS$ and mild CI who feels well, she denies any @new$ neurological symptoms or anything that can be construed as an exacerbation.	1
+problem	negation	mild CI	denies	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of MS and @mild CI$ who feels well, she @denies$ any new neurological symptoms or anything that can be construed as an exacerbation.	1
+problem	course	mild CI	new	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of MS and @mild CI$ who feels well, she denies any @new$ neurological symptoms or anything that can be construed as an exacerbation.	1
+problem	severity	any new neurological symptoms	mild	Chief Complaint   9 month follow up   History of Present Illness    45 y/o female with hx of MS and @mild$ CI who feels well, she denies @any new neurological symptoms$ or anything that can be construed as an exacerbation.	1
+drug	form	Macrobid	CAPS	@Macrobid$ @CAPS$   Current Meds 1.	0
+drug	temporal	Copaxone	28Nov2007	@Copaxone$ 20 MG/ML Subcutaneous Kit; INJECT SUBCUTANEOUSLY DAILY AS DIRECTED;  Therapy: @28Nov2007$ to (Evaluate:17May2014) Requested for: 22May2013; Last Rx:22May2013;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	route	Copaxone	Subcutaneous	@Copaxone$ 20 MG/ML @Subcutaneous$ Kit; INJECT SUBCUTANEOUSLY DAILY AS DIRECTED;  Therapy: 28Nov2007 to (Evaluate:17May2014) Requested for: 22May2013; Last Rx:22May2013;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	temporal	Copaxone	22May2013	@Copaxone$ 20 MG/ML Subcutaneous Kit; INJECT SUBCUTANEOUSLY DAILY AS DIRECTED;  Therapy: 28Nov2007 to (Evaluate:17May2014) Requested for: 22May2013; Last Rx:@22May2013$;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	frequency	Copaxone	DAILY	@Copaxone$ 20 MG/ML Subcutaneous Kit; INJECT SUBCUTANEOUSLY @DAILY$ AS DIRECTED;  Therapy: 28Nov2007 to (Evaluate:17May2014) Requested for: 22May2013; Last Rx:22May2013;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	strength	Copaxone	20 MG/ML	@Copaxone$ @20 MG/ML$ Subcutaneous Kit; INJECT SUBCUTANEOUSLY DAILY AS DIRECTED;  Therapy: 28Nov2007 to (Evaluate:17May2014) Requested for: 22May2013; Last Rx:22May2013;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	temporal	Copaxone	22May2013	@Copaxone$ 20 MG/ML Subcutaneous Kit; INJECT SUBCUTANEOUSLY DAILY AS DIRECTED;  Therapy: 28Nov2007 to (Evaluate:17May2014) Requested for: @22May2013$; Last Rx:22May2013;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	temporal	Copaxone	17May2014	@Copaxone$ 20 MG/ML Subcutaneous Kit; INJECT SUBCUTANEOUSLY DAILY AS DIRECTED;  Therapy: 28Nov2007 to (Evaluate:@17May2014$) Requested for: 22May2013; Last Rx:22May2013;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	route	Copaxone	SUBCUTANEOUSLY	@Copaxone$ 20 MG/ML Subcutaneous Kit; INJECT @SUBCUTANEOUSLY$ DAILY AS DIRECTED;  Therapy: 28Nov2007 to (Evaluate:17May2014) Requested for: 22May2013; Last Rx:22May2013;  Status: ACTIVE - Retrospective Authorization 2.	0
+drug	strength	Aspirin	81 MG	@Aspirin$ @81 MG$ Oral Tablet; TAKE 1 TABLET DAILY;	0
+drug	form	Aspirin	TABLET	@Aspirin$ 81 MG Oral Tablet; TAKE 1 @TABLET$ DAILY;	0
+drug	dosage	Aspirin	1	@Aspirin$ 81 MG Oral Tablet; TAKE @1$ TABLET DAILY;	0
+drug	form	Aspirin	Tablet	@Aspirin$ 81 MG Oral @Tablet$; TAKE 1 TABLET DAILY;	0
+drug	frequency	Aspirin	DAILY	@Aspirin$ 81 MG Oral Tablet; TAKE 1 TABLET @DAILY$;	0
+drug	route	Aspirin	Oral	@Aspirin$ 81 MG @Oral$ Tablet; TAKE 1 TABLET DAILY;	0
+drug	dosage	Vitamin D	1	@Vitamin D$ 1000 UNIT Oral Tablet; TAKE @1$ TABLET DAILY; Therapy: 07Mar2012 to   Past Medical History 1.	0
+drug	temporal	Vitamin D	07Mar2012	@Vitamin D$ 1000 UNIT Oral Tablet; TAKE 1 TABLET DAILY; Therapy: @07Mar2012$ to   Past Medical History 1.	0
+drug	form	Vitamin D	Tablet	@Vitamin D$ 1000 UNIT Oral @Tablet$; TAKE 1 TABLET DAILY; Therapy: 07Mar2012 to   Past Medical History 1.	0
+drug	frequency	Vitamin D	DAILY	@Vitamin D$ 1000 UNIT Oral Tablet; TAKE 1 TABLET @DAILY$; Therapy: 07Mar2012 to   Past Medical History 1.	0
+drug	route	Vitamin D	Oral	@Vitamin D$ 1000 UNIT @Oral$ Tablet; TAKE 1 TABLET DAILY; Therapy: 07Mar2012 to   Past Medical History 1.	0
+drug	form	Vitamin D	TABLET	@Vitamin D$ 1000 UNIT Oral Tablet; TAKE 1 @TABLET$ DAILY; Therapy: 07Mar2012 to   Past Medical History 1.	0
+drug	strength	Vitamin D	1000 UNIT	@Vitamin D$ @1000 UNIT$ Oral Tablet; TAKE 1 TABLET DAILY; Therapy: 07Mar2012 to   Past Medical History 1.	0
+problem	subject	Diabetes Mellitus	Family	"@Family$ history of @Diabetes Mellitus$ V18.0   Social History "" Never A Smoker Denied   "" History of Current Smoker   Review of Systems Complete-Female Neuro Emphasis:"	0
+problem	course	decreased concentrating ability	decreased	Neurological: @@decreased$ concentrating ability$.	0
+test	labvalue	General Appearance	Normal	Physical Exam  Constitutional  @General Appearance$: @Normal$.	0
+test	labvalue	Physical Exam	Normal	@Physical Exam$  Constitutional  General Appearance: @Normal$.	1
+problem	negation	obese	not observed	Patient was @not observed$ to be @obese$.	0
+test	labvalue	Fundoscopic Exam	Normal	@Fundoscopic Exam$: @Normal$.	0
+test	labvalue	range of motion	full	Cervical Spine: Normal (@full$ @range of motion$).	0
+problem	negation	muscle spasm	no	Cervical Spine: Normal (exhibited @no$ @muscle spasm$).	0
+problem	bodyloc	muscle spasm	muscle	Cervical Spine: Normal (exhibited no @@muscle$ spasm$).	0
+problem	negation	tenderness	no	Cervical Spine: Normal (showed @no$ @tenderness$ on palpation).	0
+test	negation	palpation	no	Cervical Spine: Normal (showed @no$ tenderness on @palpation$).	1
+problem	negation	tenderness	no	Lumbosacral Spine: Normal (@no$ @tenderness$ on palpation).	0
+test	negation	palpation	no	Lumbosacral Spine: Normal (@no$ tenderness on @palpation$).	1
+test	labvalue	Lungs Percussion	Normal	Pulmonary  @Lungs Percussion$: @Normal$.	0
+test	labvalue	Auscultation of lungs	Normal	@Auscultation of lungs$: @Normal$.	0
+problem	negation	Edema	not present	Cardiovascular  @Edema$: Normal (@not present$).	0
+test	labvalue	Carotid Arteries	Normal	@Carotid Arteries$: @Normal$.	0
+test	labvalue	Auscultation of heart	Normal	@Auscultation of heart$: @Normal$.	0
+test	labvalue	Peripheral Vascular Exam	Normal	@Peripheral Vascular Exam$: @Normal$.	0
+problem	negation	lymphadenopathy	No	Lymphatic  Palpation of lymph nodes in neck: @No$ @lymphadenopathy$.	0
+test	negation	Palpation of lymph nodes in neck	No	Lymphatic  @Palpation of lymph nodes in neck$: @No$ lymphadenopathy.	1
+problem	negation	lymphadenopathy	No	Palpation of lymph nodes in axillae: @No$ @lymphadenopathy$.	0
+test	negation	Palpation of lymph nodes in axillae	No	@Palpation of lymph nodes in axillae$: @No$ lymphadenopathy.	1
+problem	negation	lymphadenopathy	No	Palpation of lymph nodes in groin: @No$ @lymphadenopathy$.	0
+test	negation	Palpation of lymph nodes in groin	No	@Palpation of lymph nodes in groin$: @No$ lymphadenopathy.	1
+problem	negation	lymphadenopathy	No	Palpation of lymph nodes in other areas: @No$ @lymphadenopathy$.	0
+test	negation	Palpation of lymph nodes in other areas	No	@Palpation of lymph nodes in other areas$: @No$ lymphadenopathy.	1
+test	labvalue	A mental status exam	normal	Mental Status: @A mental status exam$ was performed and was @normal$.	0
+problem	negation	dysphasia/aphasia	No	Language: @No$ @dysphasia/aphasia$ was observed.	0
+test	labvalue	visual acuity	intact	Cranial Nerves:  Cranial nerves II: @visual acuity$ and visual fields were @intact$.	0
+test	labvalue	visual fields	intact	Cranial Nerves:  Cranial nerves II: visual acuity and @visual fields$ were @intact$.	0
+test	labvalue	sensation to the face	intact	Cranial nerves V: @sensation to the face$ and masseter strength were @intact$.	0
+test	labvalue	masseter strength	intact	Cranial nerves V: sensation to the face and @masseter strength$ were @intact$.	0
+test	labvalue	facial strength	intact bilaterally	Cranial nerves VII: @facial strength$ was @intact bilaterally$.	0
+test	labvalue	hearing	intact	Cranial nerves VIII: @hearing$ was @intact$.	0
+test	labvalue	movement of the soft palate	normal	Cranial nerves IX and X: there was @normal$ @movement of the soft palate$ and normal gag.	0
+test	labvalue	gag	normal	Cranial nerves IX and X: there was normal movement of the soft palate and @normal$ @gag$.	0
+test	labvalue	movement of the soft palate	normal	Cranial nerves IX and X: there was normal @movement of the soft palate$ and @normal$ gag.	1
+test	labvalue	gag	normal	Cranial nerves IX and X: there was @normal$ movement of the soft palate and normal @gag$.	1
+test	labvalue	shoulder shrug	intact bilaterally	Cranial nerves XI: @shoulder shrug$ was @intact bilaterally$.	0
+problem	negation	tongue deviation with protrusion	no	Cranial nerves XII: there was @no$ @tongue deviation with protrusion$.	0
+problem	bodyloc	tongue deviation with protrusion	tongue	Cranial nerves XII: there was no @@tongue$ deviation with protrusion$.	0
+test	labvalue	motor strength	normal	Motor Strength: @motor strength$ was @normal$ in all muscle groups and the patient is right hand dominant Lower Extremities:.	0
+test	labvalue	Motor Strength	normal	@Motor Strength$: motor strength was @normal$ in all muscle groups and the patient is right hand dominant Lower Extremities:.	1
+test	labvalue	the motor survey	normal	Motor Survey: @the motor survey$ was @normal$.	0
+test	labvalue	Motor Survey	normal	@Motor Survey$: the motor survey was @normal$.	1
+test	labvalue	abnormal and the lower extremity reflexes	abnormal	Reflexes: the upper extremity reflexes were @abnormal and the lower extremity reflexes$ were @abnormal$.	0
+test	labvalue	the upper extremity reflexes	abnormal	Reflexes: @the upper extremity reflexes$ were abnormal and the lower extremity reflexes were @abnormal$.	1
+problem	negation	involuntary movements	no	Involuntary Movements: @no$ @involuntary movements$ were seen.	0
+problem	negation	Involuntary Movements	no	@Involuntary Movements$: @no$ involuntary movements were seen.	1
+problem	bodyloc	Difficulty with truncal balance	truncal	@Difficulty with @truncal$ balance$.	0
+problem	negation	sensory abnormalities	no	Poor balance on Tandem gait  Sensory: @no$ @sensory abnormalities$ were noted.	0
+problem	negation	Poor balance	no	@Poor balance$ on Tandem gait  Sensory: @no$ sensory abnormalities were noted.	1
+test	negation	Tandem gait	no	Poor balance on @Tandem gait$  Sensory: @no$ sensory abnormalities were noted.	1
+problem	bodyloc	RLE weaknes iliopsoas	iliopsoas	Additional Findings: @RLE weaknes @iliopsoas$$ and foot flexors with increased DTRs R>L, R Babinsky.	0
+problem	bodyloc	RLE weaknes iliopsoas	RLE	Additional Findings: @@RLE$ weaknes iliopsoas$ and foot flexors with increased DTRs R>L, R Babinsky.	0
+problem	bodyloc	increased DTRs	foot flexors	Additional Findings: RLE weaknes iliopsoas and @foot flexors$ with @increased DTRs$ R>L, R Babinsky.	0
+problem	course	increased DTRs	increased	Additional Findings: RLE weaknes iliopsoas and foot flexors with @@increased$ DTRs$ R>L, R Babinsky.	0
+problem	bodyloc	RLE weaknes iliopsoas	foot flexors	Additional Findings: @RLE weaknes iliopsoas$ and @foot flexors$ with increased DTRs R>L, R Babinsky.	1
+problem	course	RLE weaknes iliopsoas	increased	Additional Findings: @RLE weaknes iliopsoas$ and foot flexors with @increased$ DTRs R>L, R Babinsky.	1
+problem	bodyloc	increased DTRs	RLE	Additional Findings: @RLE$ weaknes iliopsoas and foot flexors with @increased DTRs$ R>L, R Babinsky.	1
+problem	bodyloc	increased DTRs	iliopsoas	Additional Findings: RLE weaknes @iliopsoas$ and foot flexors with @increased DTRs$ R>L, R Babinsky.	1
+problem	bodyloc	Babinsky	RLE	Additional Findings: @RLE$ weaknes iliopsoas and foot flexors with increased DTRs R>L, R @Babinsky$.	1
+problem	bodyloc	Babinsky	iliopsoas	Additional Findings: RLE weaknes @iliopsoas$ and foot flexors with increased DTRs R>L, R @Babinsky$.	1
+problem	bodyloc	Babinsky	foot flexors	Additional Findings: RLE weaknes iliopsoas and @foot flexors$ with increased DTRs R>L, R @Babinsky$.	1
+problem	course	Babinsky	increased	Additional Findings: RLE weaknes iliopsoas and foot flexors with @increased$ DTRs R>L, R @Babinsky$.	1
+drug	frequency	Copaxone	the Trice a week	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on @Copaxone$, today we discussed @the Trice a week$ Copaxone as well as Aubagio in detail including the trials recently done on both drugs.	0
+treatment	temporal	the trials	recently	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed the Trice a week Copaxone as well as Aubagio in detail including @the trials$ @recently$ done on both drugs.	0
+problem	temporal	Cognitive Functions Current Level Impaired	recently	@Cognitive Functions Current Level Impaired$ 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed the Trice a week Copaxone as well as Aubagio in detail including the trials @recently$ done on both drugs.	1
+drug	temporal	Copaxone	recently	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on @Copaxone$, today we discussed the Trice a week Copaxone as well as Aubagio in detail including the trials @recently$ done on both drugs.	1
+drug	frequency	Copaxone	the Trice a week	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed @the Trice a week$ @Copaxone$ as well as Aubagio in detail including the trials recently done on both drugs.	1
+drug	temporal	Copaxone	recently	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed the Trice a week @Copaxone$ as well as Aubagio in detail including the trials @recently$ done on both drugs.	1
+drug	frequency	Aubagio	the Trice a week	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed @the Trice a week$ Copaxone as well as @Aubagio$ in detail including the trials recently done on both drugs.	1
+drug	temporal	Aubagio	recently	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed the Trice a week Copaxone as well as @Aubagio$ in detail including the trials @recently$ done on both drugs.	1
+drug	frequency	both drugs	the Trice a week	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed @the Trice a week$ Copaxone as well as Aubagio in detail including the trials recently done on @both drugs$.	1
+drug	temporal	both drugs	recently	Cognitive Functions Current Level Impaired 331.83   Discussion/Discussion/Summary    RRMS stable on Copaxone, today we discussed the Trice a week Copaxone as well as Aubagio in detail including the trials @recently$ done on @both drugs$.	1
+drug	duration	Copaxone	6 months	Plan is to continue @Copaxone$ for now RTC in @6 months$.	0

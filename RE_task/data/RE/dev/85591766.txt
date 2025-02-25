@@ -1,0 +1,505 @@
+test	temporal	Vitals	08Nov2011	@Vitals$ @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Vitals	09:22AM	@Vitals$ 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	BMI	08Nov2011	Vitals @08Nov2011$ 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Height	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Diastolic	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Heart Rate	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	BSA	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Weight	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Temperature	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Systolic	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Pulse Quality	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	BMI	09:22AM	Vitals 08Nov2011 @09:22AM$ @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Height	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Diastolic	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Heart Rate	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	BSA	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Weight	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Temperature	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Systolic	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	temporal	Pulse Quality	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	BMI	25.34	Vitals 08Nov2011 09:22AM @BMI$ Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	BSA	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated @1.98$ Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Height	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Weight	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Systolic	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Diastolic	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Temperature	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Heart Rate	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Pulse Quality	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ @Normal$, R Radial   Chief Complaint   CPE   Allergies	0
+test	labvalue	Vitals	25.34	@Vitals$ 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	1.98	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	5 ft 10 in	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	177 lb	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	112	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	70	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	96.4 F	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	60	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Vitals	Normal	@Vitals$ 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	1.98	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	5 ft 10 in	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	177 lb	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	112	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	70	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	96.4 F	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	60	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BMI	Normal	Vitals 08Nov2011 09:22AM @BMI$ Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	BSA	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 @BSA$ Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Height	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 @Height$ 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Weight	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in @Weight$ 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Systolic	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb @Systolic$ 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Diastolic	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting @Diastolic$ 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate @60$, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Temperature	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting @Temperature$ 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral @Heart Rate$ 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Heart Rate	Normal	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral @Heart Rate$ 60, R Radial Pulse Quality @Normal$, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	25.34	Vitals 08Nov2011 09:22AM BMI Calculated @25.34$ BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	1.98	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated @1.98$ Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	5 ft 10 in	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height @5 ft 10 in$ Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	177 lb	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight @177 lb$ Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	112	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic @112$, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	70	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic @70$, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	96.4 F	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature @96.4 F$, Oral Heart Rate 60, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+test	labvalue	Pulse Quality	60	Vitals 08Nov2011 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate @60$, R Radial @Pulse Quality$ Normal, R Radial   Chief Complaint   CPE   Allergies	1
+problem	temporal	Allergies	08Nov2011	Vitals @08Nov2011$ 09:22AM BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   @Allergies$	1
+problem	temporal	Allergies	09:22AM	Vitals 08Nov2011 @09:22AM$ BMI Calculated 25.34 BSA Calculated 1.98 Height 5 ft 10 in Weight 177 lb Systolic 112, RUE, Sitting Diastolic 70, RUE, Sitting Temperature 96.4 F, Oral Heart Rate 60, R Radial Pulse Quality Normal, R Radial   Chief Complaint   CPE   @Allergies$	1
+problem	negation	Known Drug Allergies	No	@No$ @Known Drug Allergies$   Immunizations 1  PPD 07Mar2011    Active Problems Monoclonal Gammopathy Of Undetermined Significance 273.1   Social History	0
+drug	temporal	PPD	07Mar2011	No Known Drug Allergies   Immunizations 1  @PPD$ @07Mar2011$    Active Problems Monoclonal Gammopathy Of Undetermined Significance 273.1   Social History	0
+problem	temporal	Known Drug Allergies	07Mar2011	No @Known Drug Allergies$   Immunizations 1  PPD @07Mar2011$    Active Problems Monoclonal Gammopathy Of Undetermined Significance 273.1   Social History	1
+drug	negation	Immunizations	No	@No$ Known Drug Allergies   @Immunizations$ 1  PPD 07Mar2011    Active Problems Monoclonal Gammopathy Of Undetermined Significance 273.1   Social History	1
+drug	temporal	Immunizations	07Mar2011	No Known Drug Allergies   @Immunizations$ 1  PPD @07Mar2011$    Active Problems Monoclonal Gammopathy Of Undetermined Significance 273.1   Social History	1
+drug	negation	PPD	No	@No$ Known Drug Allergies   Immunizations 1  @PPD$ 07Mar2011    Active Problems Monoclonal Gammopathy Of Undetermined Significance 273.1   Social History	1
+problem	negation	Monoclonal Gammopathy Of Undetermined Significance	No	@No$ Known Drug Allergies   Immunizations 1  PPD 07Mar2011    Active Problems @Monoclonal Gammopathy Of Undetermined Significance$ 273.1   Social History	1
+problem	temporal	Monoclonal Gammopathy Of Undetermined Significance	07Mar2011	No Known Drug Allergies   Immunizations 1  PPD @07Mar2011$    Active Problems @Monoclonal Gammopathy Of Undetermined Significance$ 273.1   Social History	1
+problem	negation	fever	no	Never A Smoker   Review of Systems    Constitutional: @no$ @fever$,no chills,not feeling poorly (malaise) and no recent weight gain.	0
+problem	negation	chills	no	Never A Smoker   Review of Systems    Constitutional: no fever,@no$ @chills$,not feeling poorly (malaise) and no recent weight gain.	0
+problem	negation	malaise	not	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,@not$ feeling poorly (@malaise$) and no recent weight gain.	0
+problem	negation	feeling poorly	not	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,@not$ @feeling poorly$ (malaise) and no recent weight gain.	0
+problem	negation	weight gain	no	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,not feeling poorly (malaise) and @no$ recent @weight gain$.	0
+problem	temporal	weight gain	recent	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,not feeling poorly (malaise) and no @recent$ @weight gain$.	0
+problem	negation	fever	no	Never A Smoker   Review of Systems    Constitutional: no @fever$,@no$ chills,not feeling poorly (malaise) and no recent weight gain.	1
+problem	negation	fever	not	Never A Smoker   Review of Systems    Constitutional: no @fever$,no chills,@not$ feeling poorly (malaise) and no recent weight gain.	1
+problem	negation	fever	no	Never A Smoker   Review of Systems    Constitutional: no @fever$,no chills,not feeling poorly (malaise) and @no$ recent weight gain.	1
+problem	temporal	fever	recent	Never A Smoker   Review of Systems    Constitutional: no @fever$,no chills,not feeling poorly (malaise) and no @recent$ weight gain.	1
+problem	negation	chills	no	Never A Smoker   Review of Systems    Constitutional: @no$ fever,no @chills$,not feeling poorly (malaise) and no recent weight gain.	1
+problem	negation	chills	not	Never A Smoker   Review of Systems    Constitutional: no fever,no @chills$,@not$ feeling poorly (malaise) and no recent weight gain.	1
+problem	negation	chills	no	Never A Smoker   Review of Systems    Constitutional: no fever,no @chills$,not feeling poorly (malaise) and @no$ recent weight gain.	1
+problem	temporal	chills	recent	Never A Smoker   Review of Systems    Constitutional: no fever,no @chills$,not feeling poorly (malaise) and no @recent$ weight gain.	1
+problem	negation	feeling poorly	no	Never A Smoker   Review of Systems    Constitutional: @no$ fever,no chills,not @feeling poorly$ (malaise) and no recent weight gain.	1
+problem	negation	feeling poorly	no	Never A Smoker   Review of Systems    Constitutional: no fever,@no$ chills,not @feeling poorly$ (malaise) and no recent weight gain.	1
+problem	negation	feeling poorly	no	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,not @feeling poorly$ (malaise) and @no$ recent weight gain.	1
+problem	temporal	feeling poorly	recent	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,not @feeling poorly$ (malaise) and no @recent$ weight gain.	1
+problem	negation	malaise	no	Never A Smoker   Review of Systems    Constitutional: @no$ fever,no chills,not feeling poorly (@malaise$) and no recent weight gain.	1
+problem	negation	malaise	no	Never A Smoker   Review of Systems    Constitutional: no fever,@no$ chills,not feeling poorly (@malaise$) and no recent weight gain.	1
+problem	negation	malaise	no	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,not feeling poorly (@malaise$) and @no$ recent weight gain.	1
+problem	temporal	malaise	recent	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,not feeling poorly (@malaise$) and no @recent$ weight gain.	1
+problem	negation	weight gain	no	Never A Smoker   Review of Systems    Constitutional: @no$ fever,no chills,not feeling poorly (malaise) and no recent @weight gain$.	1
+problem	negation	weight gain	no	Never A Smoker   Review of Systems    Constitutional: no fever,@no$ chills,not feeling poorly (malaise) and no recent @weight gain$.	1
+problem	negation	weight gain	not	Never A Smoker   Review of Systems    Constitutional: no fever,no chills,@not$ feeling poorly (malaise) and no recent @weight gain$.	1
+problem	negation	eye pain	no	Eyes: @no$ @eye pain$,eyes not red,no eyesight problems,no dryness of the eyes and no itching of the eyes.	0
+problem	bodyloc	red	eyes	Eyes: no eye pain,@eyes$ not @red$,no eyesight problems,no dryness of the eyes and no itching of the eyes.	0
+problem	negation	red	not	Eyes: no eye pain,eyes @not$ @red$,no eyesight problems,no dryness of the eyes and no itching of the eyes.	0
+problem	negation	eyesight problems	no	Eyes: no eye pain,eyes not red,@no$ @eyesight problems$,no dryness of the eyes and no itching of the eyes.	0
+problem	negation	dryness of the eyes	no	Eyes: no eye pain,eyes not red,no eyesight problems,@no$ @dryness of the eyes$ and no itching of the eyes.	0
+problem	bodyloc	dryness of the eyes	eyes	Eyes: no eye pain,eyes not red,no eyesight problems,no @dryness of the @eyes$$ and no itching of the eyes.	0
+problem	negation	itching of the eyes	no	Eyes: no eye pain,eyes not red,no eyesight problems,no dryness of the eyes and @no$ @itching of the eyes$.	0
+problem	bodyloc	eye pain	eye	Eyes: no @@eye$ pain$,eyes not red,no eyesight problems,no dryness of the eyes and no itching of the eyes.	0
+problem	bodyloc	itching of the eyes	eyes	Eyes: no eye pain,eyes not red,no eyesight problems,no dryness of the eyes and no @itching of the @eyes$$.	0
+problem	bodyloc	eye pain	eyes	Eyes: no @eye pain$,@eyes$ not red,no eyesight problems,no dryness of the eyes and no itching of the eyes.	1
+problem	negation	eye pain	not	Eyes: no @eye pain$,eyes @not$ red,no eyesight problems,no dryness of the eyes and no itching of the eyes.	1
+problem	negation	eye pain	no	Eyes: no @eye pain$,eyes not red,@no$ eyesight problems,no dryness of the eyes and no itching of the eyes.	1
+problem	negation	eye pain	no	Eyes: no @eye pain$,eyes not red,no eyesight problems,@no$ dryness of the eyes and no itching of the eyes.	1
+problem	bodyloc	eye pain	eyes	Eyes: no @eye pain$,eyes not red,no eyesight problems,no dryness of the @eyes$ and no itching of the eyes.	1
+problem	negation	eye pain	no	Eyes: no @eye pain$,eyes not red,no eyesight problems,no dryness of the eyes and @no$ itching of the eyes.	1
+problem	bodyloc	eye pain	eyes	Eyes: no @eye pain$,eyes not red,no eyesight problems,no dryness of the eyes and no itching of the @eyes$.	1
+problem	negation	red	no	Eyes: @no$ eye pain,eyes not @red$,no eyesight problems,no dryness of the eyes and no itching of the eyes.	1
+problem	bodyloc	red	eye	Eyes: no @eye$ pain,eyes not @red$,no eyesight problems,no dryness of the eyes and no itching of the eyes.	1
+problem	negation	red	no	Eyes: no eye pain,eyes not @red$,@no$ eyesight problems,no dryness of the eyes and no itching of the eyes.	1
+problem	negation	red	no	Eyes: no eye pain,eyes not @red$,no eyesight problems,@no$ dryness of the eyes and no itching of the eyes.	1
+problem	bodyloc	red	eyes	Eyes: no eye pain,eyes not @red$,no eyesight problems,no dryness of the @eyes$ and no itching of the eyes.	1
+problem	negation	red	no	Eyes: no eye pain,eyes not @red$,no eyesight problems,no dryness of the eyes and @no$ itching of the eyes.	1
+problem	bodyloc	red	eyes	Eyes: no eye pain,eyes not @red$,no eyesight problems,no dryness of the eyes and no itching of the @eyes$.	1
+problem	negation	eyesight problems	no	Eyes: @no$ eye pain,eyes not red,no @eyesight problems$,no dryness of the eyes and no itching of the eyes.	1
+problem	bodyloc	eyesight problems	eye	Eyes: no @eye$ pain,eyes not red,no @eyesight problems$,no dryness of the eyes and no itching of the eyes.	1
+problem	bodyloc	eyesight problems	eyes	Eyes: no eye pain,@eyes$ not red,no @eyesight problems$,no dryness of the eyes and no itching of the eyes.	1
+problem	negation	eyesight problems	not	Eyes: no eye pain,eyes @not$ red,no @eyesight problems$,no dryness of the eyes and no itching of the eyes.	1
+problem	negation	eyesight problems	no	Eyes: no eye pain,eyes not red,no @eyesight problems$,@no$ dryness of the eyes and no itching of the eyes.	1
+problem	bodyloc	eyesight problems	eyes	Eyes: no eye pain,eyes not red,no @eyesight problems$,no dryness of the @eyes$ and no itching of the eyes.	1
+problem	negation	eyesight problems	no	Eyes: no eye pain,eyes not red,no @eyesight problems$,no dryness of the eyes and @no$ itching of the eyes.	1
+problem	bodyloc	eyesight problems	eyes	Eyes: no eye pain,eyes not red,no @eyesight problems$,no dryness of the eyes and no itching of the @eyes$.	1
+problem	negation	dryness of the eyes	no	Eyes: @no$ eye pain,eyes not red,no eyesight problems,no @dryness of the eyes$ and no itching of the eyes.	1
+problem	bodyloc	dryness of the eyes	eye	Eyes: no @eye$ pain,eyes not red,no eyesight problems,no @dryness of the eyes$ and no itching of the eyes.	1
+problem	bodyloc	dryness of the eyes	eyes	Eyes: no eye pain,@eyes$ not red,no eyesight problems,no @dryness of the eyes$ and no itching of the eyes.	1
+problem	negation	dryness of the eyes	not	Eyes: no eye pain,eyes @not$ red,no eyesight problems,no @dryness of the eyes$ and no itching of the eyes.	1
+problem	negation	dryness of the eyes	no	Eyes: no eye pain,eyes not red,@no$ eyesight problems,no @dryness of the eyes$ and no itching of the eyes.	1
+problem	negation	dryness of the eyes	no	Eyes: no eye pain,eyes not red,no eyesight problems,no @dryness of the eyes$ and @no$ itching of the eyes.	1
+problem	bodyloc	dryness of the eyes	eyes	Eyes: no eye pain,eyes not red,no eyesight problems,no @dryness of the eyes$ and no itching of the @eyes$.	1
+problem	negation	itching of the eyes	no	Eyes: @no$ eye pain,eyes not red,no eyesight problems,no dryness of the eyes and no @itching of the eyes$.	1
+problem	bodyloc	itching of the eyes	eye	Eyes: no @eye$ pain,eyes not red,no eyesight problems,no dryness of the eyes and no @itching of the eyes$.	1
+problem	bodyloc	itching of the eyes	eyes	Eyes: no eye pain,@eyes$ not red,no eyesight problems,no dryness of the eyes and no @itching of the eyes$.	1
+problem	negation	itching of the eyes	not	Eyes: no eye pain,eyes @not$ red,no eyesight problems,no dryness of the eyes and no @itching of the eyes$.	1
+problem	negation	itching of the eyes	no	Eyes: no eye pain,eyes not red,@no$ eyesight problems,no dryness of the eyes and no @itching of the eyes$.	1
+problem	negation	itching of the eyes	no	Eyes: no eye pain,eyes not red,no eyesight problems,@no$ dryness of the eyes and no @itching of the eyes$.	1
+problem	bodyloc	itching of the eyes	eyes	Eyes: no eye pain,eyes not red,no eyesight problems,no dryness of the @eyes$ and no @itching of the eyes$.	1
+problem	negation	earache	no	ENT: @no$ @earache$,no epistaxis,no sore throat and no hoarseness.	0
+problem	negation	epistaxis	no	ENT: no earache,@no$ @epistaxis$,no sore throat and no hoarseness.	0
+problem	negation	sore throat	no	ENT: no earache,no epistaxis,@no$ @sore throat$ and no hoarseness.	0
+problem	bodyloc	sore throat	throat	ENT: no earache,no epistaxis,no @sore @throat$$ and no hoarseness.	0
+problem	negation	hoarseness	no	ENT: no earache,no epistaxis,no sore throat and @no$ @hoarseness$.	0
+problem	negation	earache	no	ENT: no @earache$,@no$ epistaxis,no sore throat and no hoarseness.	1
+problem	negation	earache	no	ENT: no @earache$,no epistaxis,@no$ sore throat and no hoarseness.	1
+problem	bodyloc	earache	throat	ENT: no @earache$,no epistaxis,no sore @throat$ and no hoarseness.	1
+problem	negation	earache	no	ENT: no @earache$,no epistaxis,no sore throat and @no$ hoarseness.	1
+problem	negation	epistaxis	no	ENT: @no$ earache,no @epistaxis$,no sore throat and no hoarseness.	1
+problem	negation	epistaxis	no	ENT: no earache,no @epistaxis$,@no$ sore throat and no hoarseness.	1
+problem	bodyloc	epistaxis	throat	ENT: no earache,no @epistaxis$,no sore @throat$ and no hoarseness.	1
+problem	negation	epistaxis	no	ENT: no earache,no @epistaxis$,no sore throat and @no$ hoarseness.	1
+problem	negation	sore throat	no	ENT: @no$ earache,no epistaxis,no @sore throat$ and no hoarseness.	1
+problem	negation	sore throat	no	ENT: no earache,@no$ epistaxis,no @sore throat$ and no hoarseness.	1
+problem	negation	sore throat	no	ENT: no earache,no epistaxis,no @sore throat$ and @no$ hoarseness.	1
+problem	negation	hoarseness	no	ENT: @no$ earache,no epistaxis,no sore throat and no @hoarseness$.	1
+problem	negation	hoarseness	no	ENT: no earache,@no$ epistaxis,no sore throat and no @hoarseness$.	1
+problem	negation	hoarseness	no	ENT: no earache,no epistaxis,@no$ sore throat and no @hoarseness$.	1
+problem	bodyloc	hoarseness	throat	ENT: no earache,no epistaxis,no sore @throat$ and no @hoarseness$.	1
+problem	negation	chest pain	no	Cardiovascular: @no$ @chest pain$,no palpitations,no intermittent leg claudication and no edema.	0
+problem	bodyloc	chest pain	chest	Cardiovascular: no @@chest$ pain$,no palpitations,no intermittent leg claudication and no edema.	0
+problem	negation	palpitations	no	Cardiovascular: no chest pain,@no$ @palpitations$,no intermittent leg claudication and no edema.	0
+problem	negation	intermittent leg claudication	no	Cardiovascular: no chest pain,no palpitations,@no$ @intermittent leg claudication$ and no edema.	0
+problem	bodyloc	intermittent leg claudication	leg	Cardiovascular: no chest pain,no palpitations,no @intermittent @leg$ claudication$ and no edema.	0
+problem	negation	edema	no	Cardiovascular: no chest pain,no palpitations,no intermittent leg claudication and @no$ @edema$.	0
+problem	negation	chest pain	no	Cardiovascular: no @chest pain$,@no$ palpitations,no intermittent leg claudication and no edema.	1
+problem	negation	chest pain	no	Cardiovascular: no @chest pain$,no palpitations,@no$ intermittent leg claudication and no edema.	1
+problem	bodyloc	chest pain	leg	Cardiovascular: no @chest pain$,no palpitations,no intermittent @leg$ claudication and no edema.	1
+problem	negation	chest pain	no	Cardiovascular: no @chest pain$,no palpitations,no intermittent leg claudication and @no$ edema.	1
+problem	negation	palpitations	no	Cardiovascular: @no$ chest pain,no @palpitations$,no intermittent leg claudication and no edema.	1
+problem	bodyloc	palpitations	chest	Cardiovascular: no @chest$ pain,no @palpitations$,no intermittent leg claudication and no edema.	1
+problem	negation	palpitations	no	Cardiovascular: no chest pain,no @palpitations$,@no$ intermittent leg claudication and no edema.	1
+problem	bodyloc	palpitations	leg	Cardiovascular: no chest pain,no @palpitations$,no intermittent @leg$ claudication and no edema.	1
+problem	negation	palpitations	no	Cardiovascular: no chest pain,no @palpitations$,no intermittent leg claudication and @no$ edema.	1
+problem	negation	intermittent leg claudication	no	Cardiovascular: @no$ chest pain,no palpitations,no @intermittent leg claudication$ and no edema.	1
+problem	bodyloc	intermittent leg claudication	chest	Cardiovascular: no @chest$ pain,no palpitations,no @intermittent leg claudication$ and no edema.	1
+problem	negation	intermittent leg claudication	no	Cardiovascular: no chest pain,@no$ palpitations,no @intermittent leg claudication$ and no edema.	1
+problem	negation	intermittent leg claudication	no	Cardiovascular: no chest pain,no palpitations,no @intermittent leg claudication$ and @no$ edema.	1
+problem	negation	edema	no	Cardiovascular: @no$ chest pain,no palpitations,no intermittent leg claudication and no @edema$.	1
+problem	bodyloc	edema	chest	Cardiovascular: no @chest$ pain,no palpitations,no intermittent leg claudication and no @edema$.	1
+problem	negation	edema	no	Cardiovascular: no chest pain,@no$ palpitations,no intermittent leg claudication and no @edema$.	1
+problem	negation	edema	no	Cardiovascular: no chest pain,no palpitations,@no$ intermittent leg claudication and no @edema$.	1
+problem	bodyloc	edema	leg	Cardiovascular: no chest pain,no palpitations,no intermittent @leg$ claudication and no @edema$.	1
+problem	negation	shortness of breath	no	Respiratory: @no$ @shortness of breath$,no wheezing,no cough,no shortness of breath during exertion,no orthopnea and no PND.	0
+problem	negation	wheezing	no	Respiratory: no shortness of breath,@no$ @wheezing$,no cough,no shortness of breath during exertion,no orthopnea and no PND.	0
+problem	negation	cough	no	Respiratory: no shortness of breath,no wheezing,@no$ @cough$,no shortness of breath during exertion,no orthopnea and no PND.	0
+problem	negation	shortness of breath during exertion	no	Respiratory: no shortness of breath,no wheezing,no cough,@no$ @shortness of breath during exertion$,no orthopnea and no PND.	0
+problem	negation	orthopnea	no	Respiratory: no shortness of breath,no wheezing,no cough,no shortness of breath during exertion,@no$ @orthopnea$ and no PND.	0
+problem	negation	PND	no	Respiratory: no shortness of breath,no wheezing,no cough,no shortness of breath during exertion,no orthopnea and @no$ @PND$.	0
+problem	negation	shortness of breath	no	Respiratory: no @shortness of breath$,@no$ wheezing,no cough,no shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	shortness of breath	no	Respiratory: no @shortness of breath$,no wheezing,@no$ cough,no shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	shortness of breath	no	Respiratory: no @shortness of breath$,no wheezing,no cough,@no$ shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	shortness of breath	no	Respiratory: no @shortness of breath$,no wheezing,no cough,no shortness of breath during exertion,@no$ orthopnea and no PND.	1
+problem	negation	shortness of breath	no	Respiratory: no @shortness of breath$,no wheezing,no cough,no shortness of breath during exertion,no orthopnea and @no$ PND.	1
+problem	negation	wheezing	no	Respiratory: @no$ shortness of breath,no @wheezing$,no cough,no shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	wheezing	no	Respiratory: no shortness of breath,no @wheezing$,@no$ cough,no shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	wheezing	no	Respiratory: no shortness of breath,no @wheezing$,no cough,@no$ shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	wheezing	no	Respiratory: no shortness of breath,no @wheezing$,no cough,no shortness of breath during exertion,@no$ orthopnea and no PND.	1
+problem	negation	wheezing	no	Respiratory: no shortness of breath,no @wheezing$,no cough,no shortness of breath during exertion,no orthopnea and @no$ PND.	1
+problem	negation	cough	no	Respiratory: @no$ shortness of breath,no wheezing,no @cough$,no shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	cough	no	Respiratory: no shortness of breath,@no$ wheezing,no @cough$,no shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	cough	no	Respiratory: no shortness of breath,no wheezing,no @cough$,@no$ shortness of breath during exertion,no orthopnea and no PND.	1
+problem	negation	cough	no	Respiratory: no shortness of breath,no wheezing,no @cough$,no shortness of breath during exertion,@no$ orthopnea and no PND.	1
+problem	negation	cough	no	Respiratory: no shortness of breath,no wheezing,no @cough$,no shortness of breath during exertion,no orthopnea and @no$ PND.	1
+problem	negation	shortness of breath during exertion	no	Respiratory: @no$ shortness of breath,no wheezing,no cough,no @shortness of breath during exertion$,no orthopnea and no PND.	1
+problem	negation	shortness of breath during exertion	no	Respiratory: no shortness of breath,@no$ wheezing,no cough,no @shortness of breath during exertion$,no orthopnea and no PND.	1
+problem	negation	shortness of breath during exertion	no	Respiratory: no shortness of breath,no wheezing,@no$ cough,no @shortness of breath during exertion$,no orthopnea and no PND.	1
+problem	negation	shortness of breath during exertion	no	Respiratory: no shortness of breath,no wheezing,no cough,no @shortness of breath during exertion$,@no$ orthopnea and no PND.	1
+problem	negation	shortness of breath during exertion	no	Respiratory: no shortness of breath,no wheezing,no cough,no @shortness of breath during exertion$,no orthopnea and @no$ PND.	1
+problem	negation	orthopnea	no	Respiratory: @no$ shortness of breath,no wheezing,no cough,no shortness of breath during exertion,no @orthopnea$ and no PND.	1
+problem	negation	orthopnea	no	Respiratory: no shortness of breath,@no$ wheezing,no cough,no shortness of breath during exertion,no @orthopnea$ and no PND.	1
+problem	negation	orthopnea	no	Respiratory: no shortness of breath,no wheezing,@no$ cough,no shortness of breath during exertion,no @orthopnea$ and no PND.	1
+problem	negation	orthopnea	no	Respiratory: no shortness of breath,no wheezing,no cough,@no$ shortness of breath during exertion,no @orthopnea$ and no PND.	1
+problem	negation	orthopnea	no	Respiratory: no shortness of breath,no wheezing,no cough,no shortness of breath during exertion,no @orthopnea$ and @no$ PND.	1
+problem	negation	PND	no	Respiratory: @no$ shortness of breath,no wheezing,no cough,no shortness of breath during exertion,no orthopnea and no @PND$.	1
+problem	negation	PND	no	Respiratory: no shortness of breath,@no$ wheezing,no cough,no shortness of breath during exertion,no orthopnea and no @PND$.	1
+problem	negation	PND	no	Respiratory: no shortness of breath,no wheezing,@no$ cough,no shortness of breath during exertion,no orthopnea and no @PND$.	1
+problem	negation	PND	no	Respiratory: no shortness of breath,no wheezing,no cough,@no$ shortness of breath during exertion,no orthopnea and no @PND$.	1
+problem	negation	PND	no	Respiratory: no shortness of breath,no wheezing,no cough,no shortness of breath during exertion,@no$ orthopnea and no @PND$.	1
+problem	negation	abdominal pain	no	Gastrointestinal: @no$ @abdominal pain$,no vomiting,no constipation,no diarrhea,no heartburn and no melena.	0
+problem	bodyloc	abdominal pain	abdominal	Gastrointestinal: no @@abdominal$ pain$,no vomiting,no constipation,no diarrhea,no heartburn and no melena.	0
+problem	negation	vomiting	no	Gastrointestinal: no abdominal pain,@no$ @vomiting$,no constipation,no diarrhea,no heartburn and no melena.	0
+problem	negation	constipation	no	Gastrointestinal: no abdominal pain,no vomiting,@no$ @constipation$,no diarrhea,no heartburn and no melena.	0
+problem	negation	diarrhea	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,@no$ @diarrhea$,no heartburn and no melena.	0
+problem	negation	heartburn	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,no diarrhea,@no$ @heartburn$ and no melena.	0
+problem	negation	melena	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,no diarrhea,no heartburn and @no$ @melena$.	0
+problem	negation	abdominal pain	no	Gastrointestinal: no @abdominal pain$,@no$ vomiting,no constipation,no diarrhea,no heartburn and no melena.	1
+problem	negation	abdominal pain	no	Gastrointestinal: no @abdominal pain$,no vomiting,@no$ constipation,no diarrhea,no heartburn and no melena.	1
+problem	negation	abdominal pain	no	Gastrointestinal: no @abdominal pain$,no vomiting,no constipation,@no$ diarrhea,no heartburn and no melena.	1
+problem	negation	abdominal pain	no	Gastrointestinal: no @abdominal pain$,no vomiting,no constipation,no diarrhea,@no$ heartburn and no melena.	1
+problem	negation	abdominal pain	no	Gastrointestinal: no @abdominal pain$,no vomiting,no constipation,no diarrhea,no heartburn and @no$ melena.	1
+problem	negation	vomiting	no	Gastrointestinal: @no$ abdominal pain,no @vomiting$,no constipation,no diarrhea,no heartburn and no melena.	1
+problem	bodyloc	vomiting	abdominal	Gastrointestinal: no @abdominal$ pain,no @vomiting$,no constipation,no diarrhea,no heartburn and no melena.	1
+problem	negation	vomiting	no	Gastrointestinal: no abdominal pain,no @vomiting$,@no$ constipation,no diarrhea,no heartburn and no melena.	1
+problem	negation	vomiting	no	Gastrointestinal: no abdominal pain,no @vomiting$,no constipation,@no$ diarrhea,no heartburn and no melena.	1
+problem	negation	vomiting	no	Gastrointestinal: no abdominal pain,no @vomiting$,no constipation,no diarrhea,@no$ heartburn and no melena.	1
+problem	negation	vomiting	no	Gastrointestinal: no abdominal pain,no @vomiting$,no constipation,no diarrhea,no heartburn and @no$ melena.	1
+problem	negation	constipation	no	Gastrointestinal: @no$ abdominal pain,no vomiting,no @constipation$,no diarrhea,no heartburn and no melena.	1
+problem	bodyloc	constipation	abdominal	Gastrointestinal: no @abdominal$ pain,no vomiting,no @constipation$,no diarrhea,no heartburn and no melena.	1
+problem	negation	constipation	no	Gastrointestinal: no abdominal pain,@no$ vomiting,no @constipation$,no diarrhea,no heartburn and no melena.	1
+problem	negation	constipation	no	Gastrointestinal: no abdominal pain,no vomiting,no @constipation$,@no$ diarrhea,no heartburn and no melena.	1
+problem	negation	constipation	no	Gastrointestinal: no abdominal pain,no vomiting,no @constipation$,no diarrhea,@no$ heartburn and no melena.	1
+problem	negation	constipation	no	Gastrointestinal: no abdominal pain,no vomiting,no @constipation$,no diarrhea,no heartburn and @no$ melena.	1
+problem	negation	diarrhea	no	Gastrointestinal: @no$ abdominal pain,no vomiting,no constipation,no @diarrhea$,no heartburn and no melena.	1
+problem	bodyloc	diarrhea	abdominal	Gastrointestinal: no @abdominal$ pain,no vomiting,no constipation,no @diarrhea$,no heartburn and no melena.	1
+problem	negation	diarrhea	no	Gastrointestinal: no abdominal pain,@no$ vomiting,no constipation,no @diarrhea$,no heartburn and no melena.	1
+problem	negation	diarrhea	no	Gastrointestinal: no abdominal pain,no vomiting,@no$ constipation,no @diarrhea$,no heartburn and no melena.	1
+problem	negation	diarrhea	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,no @diarrhea$,@no$ heartburn and no melena.	1
+problem	negation	diarrhea	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,no @diarrhea$,no heartburn and @no$ melena.	1
+problem	negation	heartburn	no	Gastrointestinal: @no$ abdominal pain,no vomiting,no constipation,no diarrhea,no @heartburn$ and no melena.	1
+problem	bodyloc	heartburn	abdominal	Gastrointestinal: no @abdominal$ pain,no vomiting,no constipation,no diarrhea,no @heartburn$ and no melena.	1
+problem	negation	heartburn	no	Gastrointestinal: no abdominal pain,@no$ vomiting,no constipation,no diarrhea,no @heartburn$ and no melena.	1
+problem	negation	heartburn	no	Gastrointestinal: no abdominal pain,no vomiting,@no$ constipation,no diarrhea,no @heartburn$ and no melena.	1
+problem	negation	heartburn	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,@no$ diarrhea,no @heartburn$ and no melena.	1
+problem	negation	heartburn	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,no diarrhea,no @heartburn$ and @no$ melena.	1
+problem	negation	melena	no	Gastrointestinal: @no$ abdominal pain,no vomiting,no constipation,no diarrhea,no heartburn and no @melena$.	1
+problem	bodyloc	melena	abdominal	Gastrointestinal: no @abdominal$ pain,no vomiting,no constipation,no diarrhea,no heartburn and no @melena$.	1
+problem	negation	melena	no	Gastrointestinal: no abdominal pain,@no$ vomiting,no constipation,no diarrhea,no heartburn and no @melena$.	1
+problem	negation	melena	no	Gastrointestinal: no abdominal pain,no vomiting,@no$ constipation,no diarrhea,no heartburn and no @melena$.	1
+problem	negation	melena	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,@no$ diarrhea,no heartburn and no @melena$.	1
+problem	negation	melena	no	Gastrointestinal: no abdominal pain,no vomiting,no constipation,no diarrhea,@no$ heartburn and no @melena$.	1
+problem	negation	dysuria	no	Genitourinary: nocturia, but @no$ @dysuria$,no incontinence,no urinary hesitancy,no genital lesions and no testicular pain.	0
+problem	negation	incontinence	no	Genitourinary: nocturia, but no dysuria,@no$ @incontinence$,no urinary hesitancy,no genital lesions and no testicular pain.	0
+problem	negation	urinary hesitancy	no	Genitourinary: nocturia, but no dysuria,no incontinence,@no$ @urinary hesitancy$,no genital lesions and no testicular pain.	0
+problem	negation	genital lesions	no	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,@no$ @genital lesions$ and no testicular pain.	0
+problem	bodyloc	genital lesions	genital	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,no @@genital$ lesions$ and no testicular pain.	0
+problem	negation	testicular pain	no	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,no genital lesions and @no$ @testicular pain$.	0
+problem	bodyloc	testicular pain	testicular	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,no genital lesions and no @@testicular$ pain$.	0
+problem	negation	nocturia	no	Genitourinary: @nocturia$, but @no$ dysuria,no incontinence,no urinary hesitancy,no genital lesions and no testicular pain.	1
+problem	negation	nocturia	no	Genitourinary: @nocturia$, but no dysuria,@no$ incontinence,no urinary hesitancy,no genital lesions and no testicular pain.	1
+problem	negation	nocturia	no	Genitourinary: @nocturia$, but no dysuria,no incontinence,@no$ urinary hesitancy,no genital lesions and no testicular pain.	1
+problem	negation	nocturia	no	Genitourinary: @nocturia$, but no dysuria,no incontinence,no urinary hesitancy,@no$ genital lesions and no testicular pain.	1
+problem	bodyloc	nocturia	genital	Genitourinary: @nocturia$, but no dysuria,no incontinence,no urinary hesitancy,no @genital$ lesions and no testicular pain.	1
+problem	negation	nocturia	no	Genitourinary: @nocturia$, but no dysuria,no incontinence,no urinary hesitancy,no genital lesions and @no$ testicular pain.	1
+problem	bodyloc	nocturia	testicular	Genitourinary: @nocturia$, but no dysuria,no incontinence,no urinary hesitancy,no genital lesions and no @testicular$ pain.	1
+problem	negation	dysuria	no	Genitourinary: nocturia, but no @dysuria$,@no$ incontinence,no urinary hesitancy,no genital lesions and no testicular pain.	1
+problem	negation	dysuria	no	Genitourinary: nocturia, but no @dysuria$,no incontinence,@no$ urinary hesitancy,no genital lesions and no testicular pain.	1
+problem	negation	dysuria	no	Genitourinary: nocturia, but no @dysuria$,no incontinence,no urinary hesitancy,@no$ genital lesions and no testicular pain.	1
+problem	bodyloc	dysuria	genital	Genitourinary: nocturia, but no @dysuria$,no incontinence,no urinary hesitancy,no @genital$ lesions and no testicular pain.	1
+problem	negation	dysuria	no	Genitourinary: nocturia, but no @dysuria$,no incontinence,no urinary hesitancy,no genital lesions and @no$ testicular pain.	1
+problem	bodyloc	dysuria	testicular	Genitourinary: nocturia, but no @dysuria$,no incontinence,no urinary hesitancy,no genital lesions and no @testicular$ pain.	1
+problem	negation	incontinence	no	Genitourinary: nocturia, but @no$ dysuria,no @incontinence$,no urinary hesitancy,no genital lesions and no testicular pain.	1
+problem	negation	incontinence	no	Genitourinary: nocturia, but no dysuria,no @incontinence$,@no$ urinary hesitancy,no genital lesions and no testicular pain.	1
+problem	negation	incontinence	no	Genitourinary: nocturia, but no dysuria,no @incontinence$,no urinary hesitancy,@no$ genital lesions and no testicular pain.	1
+problem	bodyloc	incontinence	genital	Genitourinary: nocturia, but no dysuria,no @incontinence$,no urinary hesitancy,no @genital$ lesions and no testicular pain.	1
+problem	negation	incontinence	no	Genitourinary: nocturia, but no dysuria,no @incontinence$,no urinary hesitancy,no genital lesions and @no$ testicular pain.	1
+problem	bodyloc	incontinence	testicular	Genitourinary: nocturia, but no dysuria,no @incontinence$,no urinary hesitancy,no genital lesions and no @testicular$ pain.	1
+problem	negation	urinary hesitancy	no	Genitourinary: nocturia, but @no$ dysuria,no incontinence,no @urinary hesitancy$,no genital lesions and no testicular pain.	1
+problem	negation	urinary hesitancy	no	Genitourinary: nocturia, but no dysuria,@no$ incontinence,no @urinary hesitancy$,no genital lesions and no testicular pain.	1
+problem	negation	urinary hesitancy	no	Genitourinary: nocturia, but no dysuria,no incontinence,no @urinary hesitancy$,@no$ genital lesions and no testicular pain.	1
+problem	bodyloc	urinary hesitancy	genital	Genitourinary: nocturia, but no dysuria,no incontinence,no @urinary hesitancy$,no @genital$ lesions and no testicular pain.	1
+problem	negation	urinary hesitancy	no	Genitourinary: nocturia, but no dysuria,no incontinence,no @urinary hesitancy$,no genital lesions and @no$ testicular pain.	1
+problem	bodyloc	urinary hesitancy	testicular	Genitourinary: nocturia, but no dysuria,no incontinence,no @urinary hesitancy$,no genital lesions and no @testicular$ pain.	1
+problem	negation	genital lesions	no	Genitourinary: nocturia, but @no$ dysuria,no incontinence,no urinary hesitancy,no @genital lesions$ and no testicular pain.	1
+problem	negation	genital lesions	no	Genitourinary: nocturia, but no dysuria,@no$ incontinence,no urinary hesitancy,no @genital lesions$ and no testicular pain.	1
+problem	negation	genital lesions	no	Genitourinary: nocturia, but no dysuria,no incontinence,@no$ urinary hesitancy,no @genital lesions$ and no testicular pain.	1
+problem	negation	genital lesions	no	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,no @genital lesions$ and @no$ testicular pain.	1
+problem	bodyloc	genital lesions	testicular	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,no @genital lesions$ and no @testicular$ pain.	1
+problem	negation	testicular pain	no	Genitourinary: nocturia, but @no$ dysuria,no incontinence,no urinary hesitancy,no genital lesions and no @testicular pain$.	1
+problem	negation	testicular pain	no	Genitourinary: nocturia, but no dysuria,@no$ incontinence,no urinary hesitancy,no genital lesions and no @testicular pain$.	1
+problem	negation	testicular pain	no	Genitourinary: nocturia, but no dysuria,no incontinence,@no$ urinary hesitancy,no genital lesions and no @testicular pain$.	1
+problem	negation	testicular pain	no	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,@no$ genital lesions and no @testicular pain$.	1
+problem	bodyloc	testicular pain	genital	Genitourinary: nocturia, but no dysuria,no incontinence,no urinary hesitancy,no @genital$ lesions and no @testicular pain$.	1
+problem	negation	arthralgias	no	Musculoskeletal: @no$ @arthralgias$,no joint pain,no joint swelling and no limb pain.	0
+problem	negation	joint pain	no	Musculoskeletal: no arthralgias,@no$ @joint pain$,no joint swelling and no limb pain.	0
+problem	bodyloc	joint pain	joint	Musculoskeletal: no arthralgias,no @@joint$ pain$,no joint swelling and no limb pain.	0
+problem	negation	joint swelling	no	Musculoskeletal: no arthralgias,no joint pain,@no$ @joint swelling$ and no limb pain.	0
+problem	bodyloc	joint swelling	joint	Musculoskeletal: no arthralgias,no joint pain,no @@joint$ swelling$ and no limb pain.	0
+problem	negation	limb pain	no	Musculoskeletal: no arthralgias,no joint pain,no joint swelling and @no$ @limb pain$.	0
+problem	bodyloc	limb pain	limb	Musculoskeletal: no arthralgias,no joint pain,no joint swelling and no @@limb$ pain$.	0
+problem	negation	arthralgias	no	Musculoskeletal: no @arthralgias$,@no$ joint pain,no joint swelling and no limb pain.	1
+problem	bodyloc	arthralgias	joint	Musculoskeletal: no @arthralgias$,no @joint$ pain,no joint swelling and no limb pain.	1
+problem	negation	arthralgias	no	Musculoskeletal: no @arthralgias$,no joint pain,@no$ joint swelling and no limb pain.	1
+problem	bodyloc	arthralgias	joint	Musculoskeletal: no @arthralgias$,no joint pain,no @joint$ swelling and no limb pain.	1
+problem	negation	arthralgias	no	Musculoskeletal: no @arthralgias$,no joint pain,no joint swelling and @no$ limb pain.	1
+problem	bodyloc	arthralgias	limb	Musculoskeletal: no @arthralgias$,no joint pain,no joint swelling and no @limb$ pain.	1
+problem	negation	joint pain	no	Musculoskeletal: @no$ arthralgias,no @joint pain$,no joint swelling and no limb pain.	1
+problem	negation	joint pain	no	Musculoskeletal: no arthralgias,no @joint pain$,@no$ joint swelling and no limb pain.	1
+problem	bodyloc	joint pain	joint	Musculoskeletal: no arthralgias,no @joint pain$,no @joint$ swelling and no limb pain.	1
+problem	negation	joint pain	no	Musculoskeletal: no arthralgias,no @joint pain$,no joint swelling and @no$ limb pain.	1
+problem	bodyloc	joint pain	limb	Musculoskeletal: no arthralgias,no @joint pain$,no joint swelling and no @limb$ pain.	1
+problem	negation	joint swelling	no	Musculoskeletal: @no$ arthralgias,no joint pain,no @joint swelling$ and no limb pain.	1
+problem	negation	joint swelling	no	Musculoskeletal: no arthralgias,@no$ joint pain,no @joint swelling$ and no limb pain.	1
+problem	bodyloc	joint swelling	joint	Musculoskeletal: no arthralgias,no @joint$ pain,no @joint swelling$ and no limb pain.	1
+problem	negation	joint swelling	no	Musculoskeletal: no arthralgias,no joint pain,no @joint swelling$ and @no$ limb pain.	1
+problem	bodyloc	joint swelling	limb	Musculoskeletal: no arthralgias,no joint pain,no @joint swelling$ and no @limb$ pain.	1
+problem	negation	limb pain	no	Musculoskeletal: @no$ arthralgias,no joint pain,no joint swelling and no @limb pain$.	1
+problem	negation	limb pain	no	Musculoskeletal: no arthralgias,@no$ joint pain,no joint swelling and no @limb pain$.	1
+problem	bodyloc	limb pain	joint	Musculoskeletal: no arthralgias,no @joint$ pain,no joint swelling and no @limb pain$.	1
+problem	negation	limb pain	no	Musculoskeletal: no arthralgias,no joint pain,@no$ joint swelling and no @limb pain$.	1
+problem	bodyloc	limb pain	joint	Musculoskeletal: no arthralgias,no joint pain,no @joint$ swelling and no @limb pain$.	1
+problem	negation	skin lesions	no	Integumentary: @no$ @skin lesions$ and no pruritus.	0
+problem	bodyloc	skin lesions	skin	Integumentary: no @@skin$ lesions$ and no pruritus.	0
+problem	negation	pruritus	no	Integumentary: no skin lesions and @no$ @pruritus$.	0
+problem	negation	skin lesions	no	Integumentary: no @skin lesions$ and @no$ pruritus.	1
+problem	negation	pruritus	no	Integumentary: @no$ skin lesions and no @pruritus$.	1
+problem	bodyloc	pruritus	skin	Integumentary: no @skin$ lesions and no @pruritus$.	1
+problem	negation	dizziness	no	Neurological: @no$ @dizziness$,no fainting,no limb weakness and no difficulty walking.	0
+problem	negation	fainting	no	Neurological: no dizziness,@no$ @fainting$,no limb weakness and no difficulty walking.	0
+problem	negation	limb weakness	no	Neurological: no dizziness,no fainting,@no$ @limb weakness$ and no difficulty walking.	0
+problem	bodyloc	limb weakness	limb	Neurological: no dizziness,no fainting,no @@limb$ weakness$ and no difficulty walking.	0
+problem	negation	difficulty walking	no	Neurological: no dizziness,no fainting,no limb weakness and @no$ @difficulty walking$.	0
+problem	negation	dizziness	no	Neurological: no @dizziness$,@no$ fainting,no limb weakness and no difficulty walking.	1
+problem	negation	dizziness	no	Neurological: no @dizziness$,no fainting,@no$ limb weakness and no difficulty walking.	1
+problem	bodyloc	dizziness	limb	Neurological: no @dizziness$,no fainting,no @limb$ weakness and no difficulty walking.	1
+problem	negation	dizziness	no	Neurological: no @dizziness$,no fainting,no limb weakness and @no$ difficulty walking.	1
+problem	negation	fainting	no	Neurological: @no$ dizziness,no @fainting$,no limb weakness and no difficulty walking.	1
+problem	negation	fainting	no	Neurological: no dizziness,no @fainting$,@no$ limb weakness and no difficulty walking.	1
+problem	bodyloc	fainting	limb	Neurological: no dizziness,no @fainting$,no @limb$ weakness and no difficulty walking.	1
+problem	negation	fainting	no	Neurological: no dizziness,no @fainting$,no limb weakness and @no$ difficulty walking.	1
+problem	negation	limb weakness	no	Neurological: @no$ dizziness,no fainting,no @limb weakness$ and no difficulty walking.	1
+problem	negation	limb weakness	no	Neurological: no dizziness,@no$ fainting,no @limb weakness$ and no difficulty walking.	1
+problem	negation	limb weakness	no	Neurological: no dizziness,no fainting,no @limb weakness$ and @no$ difficulty walking.	1
+problem	negation	difficulty walking	no	Neurological: @no$ dizziness,no fainting,no limb weakness and no @difficulty walking$.	1
+problem	negation	difficulty walking	no	Neurological: no dizziness,@no$ fainting,no limb weakness and no @difficulty walking$.	1
+problem	negation	difficulty walking	no	Neurological: no dizziness,no fainting,@no$ limb weakness and no @difficulty walking$.	1
+problem	bodyloc	difficulty walking	limb	Neurological: no dizziness,no fainting,no @limb$ weakness and no @difficulty walking$.	1
+problem	negation	sleep disturbances	no	Psychiatric: @no$ @sleep disturbances$,no anxiety and no depression.	0
+problem	negation	anxiety	no	Psychiatric: no sleep disturbances,@no$ @anxiety$ and no depression.	0
+problem	negation	depression	no	Psychiatric: no sleep disturbances,no anxiety and @no$ @depression$.	0
+problem	negation	sleep disturbances	no	Psychiatric: no @sleep disturbances$,@no$ anxiety and no depression.	1
+problem	negation	sleep disturbances	no	Psychiatric: no @sleep disturbances$,no anxiety and @no$ depression.	1
+problem	negation	anxiety	no	Psychiatric: @no$ sleep disturbances,no @anxiety$ and no depression.	1
+problem	negation	anxiety	no	Psychiatric: no sleep disturbances,no @anxiety$ and @no$ depression.	1
+problem	negation	depression	no	Psychiatric: @no$ sleep disturbances,no anxiety and no @depression$.	1
+problem	negation	depression	no	Psychiatric: no sleep disturbances,@no$ anxiety and no @depression$.	1
+problem	negation	muscle weakness	no	Endocrine: @no$ @muscle weakness$ and no erectile dysfunction.	0
+problem	bodyloc	muscle weakness	muscle	Endocrine: no @@muscle$ weakness$ and no erectile dysfunction.	0
+problem	negation	erectile dysfunction	no	Endocrine: no muscle weakness and @no$ @erectile dysfunction$.	0
+problem	negation	muscle weakness	no	Endocrine: no @muscle weakness$ and @no$ erectile dysfunction.	1
+problem	negation	erectile dysfunction	no	Endocrine: @no$ muscle weakness and no @erectile dysfunction$.	1
+problem	bodyloc	erectile dysfunction	muscle	Endocrine: no @muscle$ weakness and no @erectile dysfunction$.	1
+problem	negation	tendency for easy bleeding	no	Hematologic/Lymphatic: @no$ @tendency for easy bleeding$,no tendency for easy bruising,no swollen glands and no swollen glands in the neck.	0
+problem	negation	tendency for easy bruising	no	Hematologic/Lymphatic: no tendency for easy bleeding,@no$ @tendency for easy bruising$,no swollen glands and no swollen glands in the neck.	0
+problem	negation	swollen glands	no	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,@no$ @swollen glands$ and no swollen glands in the neck.	0
+problem	bodyloc	swollen glands	glands	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no @swollen @glands$$ and no swollen glands in the neck.	0
+problem	negation	swollen glands in the neck	no	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no swollen glands and @no$ @swollen glands in the neck$.	0
+problem	bodyloc	swollen glands in the neck	glands	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no swollen glands and no @swollen @glands$ in the neck$.	0
+problem	bodyloc	swollen glands in the neck	neck	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no swollen glands and no @swollen glands in the @neck$$.	0
+problem	negation	tendency for easy bleeding	no	Hematologic/Lymphatic: no @tendency for easy bleeding$,@no$ tendency for easy bruising,no swollen glands and no swollen glands in the neck.	1
+problem	negation	tendency for easy bleeding	no	Hematologic/Lymphatic: no @tendency for easy bleeding$,no tendency for easy bruising,@no$ swollen glands and no swollen glands in the neck.	1
+problem	bodyloc	tendency for easy bleeding	glands	Hematologic/Lymphatic: no @tendency for easy bleeding$,no tendency for easy bruising,no swollen @glands$ and no swollen glands in the neck.	1
+problem	negation	tendency for easy bleeding	no	Hematologic/Lymphatic: no @tendency for easy bleeding$,no tendency for easy bruising,no swollen glands and @no$ swollen glands in the neck.	1
+problem	bodyloc	tendency for easy bleeding	glands	Hematologic/Lymphatic: no @tendency for easy bleeding$,no tendency for easy bruising,no swollen glands and no swollen @glands$ in the neck.	1
+problem	bodyloc	tendency for easy bleeding	neck	Hematologic/Lymphatic: no @tendency for easy bleeding$,no tendency for easy bruising,no swollen glands and no swollen glands in the @neck$.	1
+problem	negation	tendency for easy bruising	no	Hematologic/Lymphatic: @no$ tendency for easy bleeding,no @tendency for easy bruising$,no swollen glands and no swollen glands in the neck.	1
+problem	negation	tendency for easy bruising	no	Hematologic/Lymphatic: no tendency for easy bleeding,no @tendency for easy bruising$,@no$ swollen glands and no swollen glands in the neck.	1
+problem	bodyloc	tendency for easy bruising	glands	Hematologic/Lymphatic: no tendency for easy bleeding,no @tendency for easy bruising$,no swollen @glands$ and no swollen glands in the neck.	1
+problem	negation	tendency for easy bruising	no	Hematologic/Lymphatic: no tendency for easy bleeding,no @tendency for easy bruising$,no swollen glands and @no$ swollen glands in the neck.	1
+problem	bodyloc	tendency for easy bruising	glands	Hematologic/Lymphatic: no tendency for easy bleeding,no @tendency for easy bruising$,no swollen glands and no swollen @glands$ in the neck.	1
+problem	bodyloc	tendency for easy bruising	neck	Hematologic/Lymphatic: no tendency for easy bleeding,no @tendency for easy bruising$,no swollen glands and no swollen glands in the @neck$.	1
+problem	negation	swollen glands	no	Hematologic/Lymphatic: @no$ tendency for easy bleeding,no tendency for easy bruising,no @swollen glands$ and no swollen glands in the neck.	1
+problem	negation	swollen glands	no	Hematologic/Lymphatic: no tendency for easy bleeding,@no$ tendency for easy bruising,no @swollen glands$ and no swollen glands in the neck.	1
+problem	negation	swollen glands	no	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no @swollen glands$ and @no$ swollen glands in the neck.	1
+problem	bodyloc	swollen glands	glands	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no @swollen glands$ and no swollen @glands$ in the neck.	1
+problem	bodyloc	swollen glands	neck	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no @swollen glands$ and no swollen glands in the @neck$.	1
+problem	negation	swollen glands in the neck	no	Hematologic/Lymphatic: @no$ tendency for easy bleeding,no tendency for easy bruising,no swollen glands and no @swollen glands in the neck$.	1
+problem	negation	swollen glands in the neck	no	Hematologic/Lymphatic: no tendency for easy bleeding,@no$ tendency for easy bruising,no swollen glands and no @swollen glands in the neck$.	1
+problem	negation	swollen glands in the neck	no	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,@no$ swollen glands and no @swollen glands in the neck$.	1
+problem	bodyloc	swollen glands in the neck	glands	Hematologic/Lymphatic: no tendency for easy bleeding,no tendency for easy bruising,no swollen @glands$ and no @swollen glands in the neck$.	1
+test	labvalue	General appearance	Normal	Physical Exam  Constitutional  @General appearance$: @Normal$.	0
+test	labvalue	Physical Exam	Normal	@Physical Exam$  Constitutional  General appearance: @Normal$.	1
+test	labvalue	Examination of the head and face	Normal	Head and Face  @Examination of the head and face$: @Normal$.	0
+test	labvalue	Palpation of the face and sinuses	Normal	@Palpation of the face and sinuses$: @Normal$.	0
+test	labvalue	Inspection of the conjunctiva and lids	Normal	Eyes  @Inspection of the conjunctiva and lids$: @Normal$.	0
+test	labvalue	External inspection of ears and nose	Normal	@External inspection of ears and nose$: @Normal$.	0
+test	labvalue	Otoscopic examination	Normal	@Otoscopic examination$: @Normal$.	0
+test	labvalue	Assessment of hearing	Normal	@Assessment of hearing$: @Normal$.	0
+test	labvalue	Inspection of lips, teethand gums	Normal	@Inspection of lips, teethand gums$: @Normal$.	0
+test	labvalue	Examination of the oropharynx	Normal	@Examination of the oropharynx$: @Normal$.	0
+test	labvalue	Examination of the neck	Normal	Neck  @Examination of the neck$: @Normal$.	0
+test	labvalue	Auscultation of lungs	Normal	@Auscultation of lungs$: @Normal$.	0
+test	labvalue	Auscultation of heart	Normal	Cardiovascular  @Auscultation of heart$: @Normal$.	0
+test	labvalue	Peripheral vascular exam	Normal	@Peripheral vascular exam$: @Normal$.	0
+test	labvalue	Examination of extremities	Normal	@Examination of extremities$ for edema and/or varicosities: @Normal$.	0
+test	labvalue	Inspection of breasts	Normal	Chest  @Inspection of breasts$: @Normal$.	0
+test	labvalue	Palpation of breasts and axillae	Normal	@Palpation of breasts and axillae$: @Normal$.	0
+test	labvalue	Examination of the abdomen	Normal	Abdomen  @Examination of the abdomen$: @Normal$.	0
+test	labvalue	Examination of liver and spleen	Normal	@Examination of liver and spleen$: @Normal$.	0
+test	labvalue	Examination for hernias	Normal	@Examination for hernias$: @Normal$.	0
+test	labvalue	Examination of the anus, perineum and rectum	Normal	@Examination of the anus, perineum and rectum$: @Normal$.	0
+test	labvalue	Examination of the penis	Normal	@Examination of the penis$: @Normal$.	0
+problem	negation	palpable nodules	no	The prostate was enlarged, buthad @no$ @palpable nodules$,was not tenderand was not fluctuant.	0
+problem	bodyloc	enlarged	prostate	The @prostate$ was @enlarged$, buthad no palpable nodules,was not tenderand was not fluctuant.	0
+problem	negation	enlarged	no	The prostate was @enlarged$, buthad @no$ palpable nodules,was not tenderand was not fluctuant.	1
+problem	bodyloc	palpable nodules	prostate	The @prostate$ was enlarged, buthad no @palpable nodules$,was not tenderand was not fluctuant.	1
+test	labvalue	Palpation of lymph nodes in neck	Normal	Lymphatic  @Palpation of lymph nodes in neck$: @Normal$.	0
+test	labvalue	Palpation of lymph nodes in axillae	Normal	@Palpation of lymph nodes in axillae$: @Normal$.	0
+test	labvalue	Palpation of lymph nodes in groin	Normal	@Palpation of lymph nodes in groin$: @Normal$.	0
+test	labvalue	Inspection/palpation of joints, bones, and muscles	Normal	@Inspection/palpation of joints, bones, and muscles$: @Normal$.	0
+test	labvalue	Assessment of stability	Normal	@Assessment of stability$: @Normal$.	0
+test	labvalue	Examination of cranial nerves	Normal	Neurologic  @Examination of cranial nerves$: @Normal$.	0
+test	labvalue	Examination of reflexes	Normal	@Examination of reflexes$: @Normal$.	0
+test	temporal	OCCULT BLOOD, STOOL, DIAGNOSTIC	08Nov2011	V70.0 Primary Hemochromatosis Carrier State 275.01   Plan [Q] @OCCULT BLOOD, STOOL, DIAGNOSTIC$ Requested for: @08Nov2011$	0
+problem	temporal	Primary Hemochromatosis Carrier State	08Nov2011	V70.0 @Primary Hemochromatosis Carrier State$ 275.01   Plan [Q] OCCULT BLOOD, STOOL, DIAGNOSTIC Requested for: @08Nov2011$	1
+test	temporal	VITAMIN D, 25 HYDROXY AND 1,25 DIHYDROXY, LC/MS/MS	08Nov2011	[QL] @VITAMIN D, 25 HYDROXY AND 1,25 DIHYDROXY, LC/MS/MS$ Requested for: @08Nov2011$	0
+test	temporal	CBC (INCLUDES DIFF/PLT)	08Nov2011	@CBC (INCLUDES DIFF/PLT)$ Done: @08Nov2011$	0
+test	temporal	CMP W/EGFR	08Nov2011	@CMP W/EGFR$ Requested for: @08Nov2011$	0
+test	temporal	LIPID PANEL	08Nov2011	[QLH] @LIPID PANEL$ Requested for: @08Nov2011$	0
+test	temporal	PSA, TOTAL	08Nov2011	[QLH] @PSA, TOTAL$ Requested for: @08Nov2011$ EKG (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	0
+test	temporal	EKG	08Nov2011	[QLH] PSA, TOTAL Requested for: 08Nov2011 @EKG$ (In Office) Done: @08Nov2011$ Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	0
+test	temporal	Urine Dipstick	08Nov2011	[QLH] PSA, TOTAL Requested for: 08Nov2011 EKG (In Office) Done: 08Nov2011 @Urine Dipstick$ (In Office) Done: @08Nov2011$   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	0
+test	temporal	PSA, TOTAL	08Nov2011	[QLH] @PSA, TOTAL$ Requested for: 08Nov2011 EKG (In Office) Done: @08Nov2011$ Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	1
+test	temporal	PSA, TOTAL	08Nov2011	[QLH] @PSA, TOTAL$ Requested for: 08Nov2011 EKG (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: @08Nov2011$   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	1
+test	temporal	PSA, TOTAL	Nov 8 2011	[QLH] @PSA, TOTAL$ Requested for: 08Nov2011 EKG (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; @Nov 8 2011$ 11:49AM (Author)	1
+test	temporal	PSA, TOTAL	11:49AM	[QLH] @PSA, TOTAL$ Requested for: 08Nov2011 EKG (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 @11:49AM$ (Author)	1
+test	temporal	EKG	08Nov2011	[QLH] PSA, TOTAL Requested for: @08Nov2011$ @EKG$ (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	1
+test	temporal	EKG	08Nov2011	[QLH] PSA, TOTAL Requested for: 08Nov2011 @EKG$ (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: @08Nov2011$   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	1
+test	temporal	EKG	Nov 8 2011	[QLH] PSA, TOTAL Requested for: 08Nov2011 @EKG$ (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; @Nov 8 2011$ 11:49AM (Author)	1
+test	temporal	EKG	11:49AM	[QLH] PSA, TOTAL Requested for: 08Nov2011 @EKG$ (In Office) Done: 08Nov2011 Urine Dipstick (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 @11:49AM$ (Author)	1
+test	temporal	Urine Dipstick	08Nov2011	[QLH] PSA, TOTAL Requested for: @08Nov2011$ EKG (In Office) Done: 08Nov2011 @Urine Dipstick$ (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	1
+test	temporal	Urine Dipstick	08Nov2011	[QLH] PSA, TOTAL Requested for: 08Nov2011 EKG (In Office) Done: @08Nov2011$ @Urine Dipstick$ (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 11:49AM (Author)	1
+test	temporal	Urine Dipstick	Nov 8 2011	[QLH] PSA, TOTAL Requested for: 08Nov2011 EKG (In Office) Done: 08Nov2011 @Urine Dipstick$ (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; @Nov 8 2011$ 11:49AM (Author)	1
+test	temporal	Urine Dipstick	11:49AM	[QLH] PSA, TOTAL Requested for: 08Nov2011 EKG (In Office) Done: 08Nov2011 @Urine Dipstick$ (In Office) Done: 08Nov2011   Signatures Electronically signed by : Lpienxi Aderancema, M.D.; Nov 8 2011 @11:49AM$ (Author)	1

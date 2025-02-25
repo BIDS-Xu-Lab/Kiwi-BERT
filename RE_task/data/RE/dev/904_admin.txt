@@ -1,0 +1,391 @@
+problem	negation	Known Allergies	No	[**2065-8-18**] Sex: F Service: MEDICINE Allergies: Patient recorded as having @No$ @Known Allergies$ to Drugs Attending:[**First Name3	0
+problem	temporal	Known Allergies	2065-8-18	[**@2065-8-18$**] Sex: F Service: MEDICINE Allergies: Patient recorded as having No @Known Allergies$ to Drugs Attending:[**First Name3	1
+drug	temporal	Drugs	2065-8-18	[**@2065-8-18$**] Sex: F Service: MEDICINE Allergies: Patient recorded as having No Known Allergies to @Drugs$ Attending:[**First Name3	1
+drug	negation	Drugs	No	[**2065-8-18**] Sex: F Service: MEDICINE Allergies: Patient recorded as having @No$ Known Allergies to @Drugs$ Attending:[**First Name3	1
+problem	uncertain	paraplegia	?	[**Known lastname 4636**] is a 70 yo female with h/o @paraplegia$, HTN, and @?$	1
+problem	uncertain	HTN	?	[**Known lastname 4636**] is a 70 yo female with h/o paraplegia, @HTN$, and @?$	1
+problem	bodyloc	a frontal headache	frontal	Per report the patient had @a @frontal$ headache$ with LOC today and woke up with slurred speech.	0
+problem	temporal	a frontal headache	today	Per report the patient had @a frontal headache$ with LOC @today$ and woke up with slurred speech.	0
+problem	temporal	LOC	today	Per report the patient had a frontal headache with @LOC$ @today$ and woke up with slurred speech.	0
+problem	bodyloc	LOC	frontal	Per report the patient had a @frontal$ headache with @LOC$ today and woke up with slurred speech.	1
+problem	bodyloc	slurred speech	frontal	Per report the patient had a @frontal$ headache with LOC today and woke up with @slurred speech$.	1
+problem	temporal	slurred speech	today	Per report the patient had a frontal headache with LOC @today$ and woke up with @slurred speech$.	1
+problem	temporal	dizzy	about a week	She had been feeling lightheaded and @dizzy$ for @about a week$.	0
+problem	temporal	lightheaded	about a week	She had been feeling @lightheaded$ and dizzy for @about a week$.	1
+problem	temporal	cold	Last night	@Last night$ she appeared @cold$ and clammy and less alert while conversing with her neighbors.	0
+problem	temporal	clammy	Last night	@Last night$ she appeared cold and @clammy$ and less alert while conversing with her neighbors.	0
+problem	temporal	less alert	Last night	@Last night$ she appeared cold and clammy and @less alert$ while conversing with her neighbors.	0
+test	labvalue	O2 sat	80s	@O2 sat$ was in the @80s$ o RA and sats improved to 100% on NRB.	0
+test	labvalue	sats	100%	O2 sat was in the 80s o RA and @sats$ improved to @100%$ on NRB.	0
+test	labvalue	O2 sat	100%	@O2 sat$ was in the 80s o RA and sats improved to @100%$ on NRB.	1
+test	labvalue	RA	80s	O2 sat was in the @80s$ o @RA$ and sats improved to 100% on NRB.	1
+test	labvalue	RA	100%	O2 sat was in the 80s o @RA$ and sats improved to @100%$ on NRB.	1
+test	labvalue	sats	80s	O2 sat was in the @80s$ o RA and @sats$ improved to 100% on NRB.	1
+test	labvalue	respiration rate	5	She later became more lethargic and was intubated for airway protection with an observed @respiration rate$ of @5$.	0
+drug	dosage	levophed	boluses	She received 3L NS and several @levophed$ @boluses$ for persistent hypotension but small amounts made her hypertensive She underwent a CXR, head CT for ?	0
+drug	dosage	NS	boluses	She received 3L @NS$ and several levophed @boluses$ for persistent hypotension but small amounts made her hypertensive She underwent a CXR, head CT for ?	1
+problem	uncertain	persistent hypotension	?	She received 3L NS and several levophed boluses for @persistent hypotension$ but small amounts made her hypertensive She underwent a CXR, head CT for @?$	1
+problem	uncertain	hypertensive	?	She received 3L NS and several levophed boluses for persistent hypotension but small amounts made her @hypertensive$ She underwent a CXR, head CT for @?$	1
+problem	uncertain	PE	r/o	code stroke, and a CT chest/abdomen/pelvis to @r/o$ @PE$.	0
+problem	uncertain	code stroke	r/o	@code stroke$, and a CT chest/abdomen/pelvis to @r/o$ PE.	1
+test	labvalue	WBC	5	She had an LP which showed @5$ @WBC$ and normal protein and glucose.	0
+test	labvalue	glucose	normal	She had an LP which showed 5 WBC and @normal$ protein and @glucose$.	0
+test	labvalue	protein	normal	She had an LP which showed 5 WBC and @normal$ @protein$ and glucose.	0
+test	labvalue	an LP	5	She had @an LP$ which showed @5$ WBC and normal protein and glucose.	1
+test	labvalue	an LP	normal	She had @an LP$ which showed 5 WBC and @normal$ protein and glucose.	1
+test	labvalue	WBC	normal	She had an LP which showed 5 @WBC$ and @normal$ protein and glucose.	1
+test	labvalue	protein	5	She had an LP which showed @5$ WBC and normal @protein$ and glucose.	1
+test	labvalue	glucose	5	She had an LP which showed @5$ WBC and normal protein and @glucose$.	1
+test	labvalue	PFTs	normal	COPD however @normal$ @PFTs$ from [**2128**]. 2.	0
+test	temporal	PFTs	2128	COPD however normal @PFTs$ from [**@2128$**]. 2.	0
+problem	temporal	COPD	2128	@COPD$ however normal PFTs from [**@2128$**]. 2.	1
+treatment	temporal	Thoracic Aneurysm Repair	2128	@Thoracic Aneurysm Repair$ ([**@2128$**]) 4.	0
+problem	bodyloc	Fecal Incontinence	Fecal	@@Fecal$ Incontinence$ 10.	0
+problem	subject	DM	son	Family History: @son$ has @DM$.	0
+test	labvalue	T	95.4	Physical Exam: ICU Admission Physical Exam: VS: @T$ @95.4$ BP 97/38	0
+test	labvalue	BP	97/38	Physical Exam: ICU Admission Physical Exam: VS: T 95.4 @BP$ @97/38$	0
+test	labvalue	VS	95.4	Physical Exam: ICU Admission Physical Exam: @VS$: T @95.4$ BP 97/38	1
+test	labvalue	VS	97/38	Physical Exam: ICU Admission Physical Exam: @VS$: T 95.4 BP @97/38$	1
+test	labvalue	T	97/38	Physical Exam: ICU Admission Physical Exam: VS: @T$ 95.4 BP @97/38$	1
+test	labvalue	BP	95.4	Physical Exam: ICU Admission Physical Exam: VS: T @95.4$ @BP$ 97/38	1
+test	labvalue	HR	73	@HR$ @73$ RR 23 O2 sat 97% AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	0
+test	labvalue	RR	23	HR 73 @RR$ @23$ O2 sat 97% AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	0
+test	labvalue	O2 sat	97%	HR 73 RR 23 @O2 sat$ @97%$ AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	0
+test	labvalue	HR	23	@HR$ 73 RR @23$ O2 sat 97% AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	1
+test	labvalue	HR	97%	@HR$ 73 RR 23 O2 sat @97%$ AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	1
+test	labvalue	RR	73	HR @73$ @RR$ 23 O2 sat 97% AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	1
+test	labvalue	RR	97%	HR 73 @RR$ 23 O2 sat @97%$ AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	1
+test	labvalue	O2 sat	73	HR @73$ RR 23 @O2 sat$ 97% AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	1
+test	labvalue	O2 sat	23	HR 73 RR @23$ @O2 sat$ 97% AC:480 x14 FIo2 0.6 PEEP 5  Gen: Intubated female,wakes up and responds to questions HEENT:	1
+problem	bodyloc	dry MM	MM	PERRL, @dry @MM$$ Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	0
+test	labvalue	S1	nl	PERRL, dry MM Neck:supple  Cardio: RRR, @nl$ @S1$ S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	0
+test	labvalue	S2	nl	PERRL, dry MM Neck:supple  Cardio: RRR, @nl$ S1 @S2$, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	0
+problem	negation	m/r/g	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, @no$ @m/r/g$  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	0
+problem	bodyloc	1+ peripheral edema b/l	peripheral	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: @1+ @peripheral$ edema b/l$  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	0
+problem	bodyloc	sternal rub	sternal	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, @@sternal$ rub$ Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	0
+test	labvalue	PERRL	nl	@PERRL$, dry MM Neck:supple  Cardio: RRR, @nl$ S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	negation	PERRL	no	@PERRL$, dry MM Neck:supple  Cardio: RRR, nl S1 S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	negation	dry MM	no	PERRL, @dry MM$ Neck:supple  Cardio: RRR, nl S1 S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	dry MM	peripheral	PERRL, @dry MM$ Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ @peripheral$ edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	dry MM	sternal	PERRL, @dry MM$ Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, @sternal$ rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	labvalue	RRR	nl	PERRL, dry MM Neck:supple  Cardio: @RRR$, @nl$ S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	negation	RRR	no	PERRL, dry MM Neck:supple  Cardio: @RRR$, nl S1 S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	negation	S1	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl @S1$ S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	negation	S2	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 @S2$, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	m/r/g	MM	PERRL, dry @MM$ Neck:supple  Cardio: RRR, nl S1 S2, no @m/r/g$  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	m/r/g	peripheral	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no @m/r/g$  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ @peripheral$ edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	m/r/g	sternal	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no @m/r/g$  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, @sternal$ rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	labvalue	CTA	nl	PERRL, dry MM Neck:supple  Cardio: RRR, @nl$ S1 S2, no m/r/g  Pulm: @CTA$ b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	negation	CTA	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, @no$ m/r/g  Pulm: @CTA$ b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	1+ peripheral edema b/l	MM	PERRL, dry @MM$ Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: @1+ peripheral edema b/l$  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	negation	1+ peripheral edema b/l	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: @1+ peripheral edema b/l$  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	1+ peripheral edema b/l	sternal	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: @1+ peripheral edema b/l$  Neuro: initially unresponsive to voice, @sternal$ rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	initially unresponsive to voice	MM	PERRL, dry @MM$ Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: @initially unresponsive to voice$, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	negation	initially unresponsive to voice	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: @initially unresponsive to voice$, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	initially unresponsive to voice	peripheral	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ @peripheral$ edema b/l  Neuro: @initially unresponsive to voice$, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	initially unresponsive to voice	sternal	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: @initially unresponsive to voice$, @sternal$ rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	sternal rub	MM	PERRL, dry @MM$ Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, @sternal rub$ Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	negation	sternal rub	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, @sternal rub$ Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+problem	bodyloc	sternal rub	peripheral	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ @peripheral$ edema b/l  Neuro: initially unresponsive to voice, @sternal rub$ Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: CXR	1
+test	labvalue	CXR	nl	PERRL, dry MM Neck:supple  Cardio: RRR, @nl$ S1 S2, no m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: @CXR$	1
+test	negation	CXR	no	PERRL, dry MM Neck:supple  Cardio: RRR, nl S1 S2, @no$ m/r/g  Pulm: CTA b/l ant  Abd: soft, NT, ND, + BS Ext: 1+ peripheral edema b/l  Neuro: initially unresponsive to voice, sternal rub Later patient awoke, answered questions appropriately and moved all extremities Pertinent Results: @CXR$	1
+treatment	temporal	thoracotomy on the left	prior	[**2134-12-11**]: changes of @prior$ @thoracotomy on the left$.	0
+treatment	temporal	thoracotomy on the left	2134-12-11	[**@2134-12-11$**]: changes of prior @thoracotomy on the left$.	1
+problem	bodyloc	Bibasilar atelectasis	Bibasilar	@@Bibasilar$ atelectasis$ without definite consolidation or evidence for congestive heart failure identified. .	0
+problem	negation	congestive heart failure	without	Bibasilar atelectasis @without$ definite consolidation or evidence for @congestive heart failure$ identified. .	0
+problem	negation	definite consolidation	without	Bibasilar atelectasis @without$ @definite consolidation$ or evidence for congestive heart failure identified. .	0
+problem	bodyloc	congestive heart failure	heart	Bibasilar atelectasis without definite consolidation or evidence for @congestive @heart$ failure$ identified. .	0
+problem	negation	Bibasilar atelectasis	without	@Bibasilar atelectasis$ @without$ definite consolidation or evidence for congestive heart failure identified. .	1
+problem	bodyloc	Bibasilar atelectasis	heart	@Bibasilar atelectasis$ without definite consolidation or evidence for congestive @heart$ failure identified. .	1
+problem	bodyloc	definite consolidation	Bibasilar	@Bibasilar$ atelectasis without @definite consolidation$ or evidence for congestive heart failure identified. .	1
+problem	bodyloc	definite consolidation	heart	Bibasilar atelectasis without @definite consolidation$ or evidence for congestive @heart$ failure identified. .	1
+problem	bodyloc	congestive heart failure	Bibasilar	@Bibasilar$ atelectasis without definite consolidation or evidence for @congestive heart failure$ identified. .	1
+test	temporal	Limited study	2134-12-11	[**@2134-12-11$**]: @Limited study$ due to patient motion.	1
+problem	negation	mass effect	no	Allowing for this, @no$ evidence of intracranial hemorrhage or @mass effect$. .	0
+problem	negation	evidence of intracranial hemorrhage	no	Allowing for this, @no$ @evidence of intracranial hemorrhage$ or mass effect. .	0
+problem	bodyloc	evidence of intracranial hemorrhage	intracranial	Allowing for this, no @evidence of @intracranial$ hemorrhage$ or mass effect. .	0
+problem	bodyloc	mass effect	intracranial	Allowing for this, no evidence of @intracranial$ hemorrhage or @mass effect$. .	1
+problem	negation	evidence of pulmonary embolism	No	@No$ @evidence of pulmonary embolism$.	0
+problem	bodyloc	evidence of pulmonary embolism	pulmonary	No @evidence of @pulmonary$ embolism$.	0
+problem	bodyloc	Tortuous intrathoracic aorta	intrathoracic aorta	@Tortuous @intrathoracic aorta$$ status post repair without evidence of dissection, leak, or aneurysmal dilatation.	0
+problem	negation	evidence of dissection	without	Tortuous intrathoracic aorta status post repair @without$ @evidence of dissection$, leak, or aneurysmal dilatation.	0
+problem	negation	leak	without	Tortuous intrathoracic aorta status post repair @without$ evidence of dissection, @leak$, or aneurysmal dilatation.	0
+problem	negation	aneurysmal dilatation	without	Tortuous intrathoracic aorta status post repair @without$ evidence of dissection, leak, or @aneurysmal dilatation$.	0
+problem	negation	Tortuous intrathoracic aorta	without	@Tortuous intrathoracic aorta$ status post repair @without$ evidence of dissection, leak, or aneurysmal dilatation.	1
+treatment	negation	repair	without	Tortuous intrathoracic aorta status post @repair$ @without$ evidence of dissection, leak, or aneurysmal dilatation.	1
+problem	bodyloc	evidence of dissection	intrathoracic aorta	Tortuous @intrathoracic aorta$ status post repair without @evidence of dissection$, leak, or aneurysmal dilatation.	1
+problem	bodyloc	leak	intrathoracic aorta	Tortuous @intrathoracic aorta$ status post repair without evidence of dissection, @leak$, or aneurysmal dilatation.	1
+problem	bodyloc	aneurysmal dilatation	intrathoracic aorta	Tortuous @intrathoracic aorta$ status post repair without evidence of dissection, leak, or @aneurysmal dilatation$.	1
+problem	bodyloc	New right upper lobe paraseptal thickening	right upper lobe paraseptal	@New @right upper lobe paraseptal$ thickening$ concerning for an interstitial pneumonia.	0
+problem	course	New right upper lobe paraseptal thickening	New	@@New$ right upper lobe paraseptal thickening$ concerning for an interstitial pneumonia.	0
+problem	course	an interstitial pneumonia	New	@New$ right upper lobe paraseptal thickening concerning for @an interstitial pneumonia$.	1
+problem	bodyloc	an interstitial pneumonia	right upper lobe paraseptal	New @right upper lobe paraseptal$ thickening concerning for @an interstitial pneumonia$.	1
+problem	bodyloc	Fatty liver	liver	@Fatty @liver$$. 4.	0
+problem	bodyloc	Calcified right thyroid nodule	right thyroid	@Calcified @right thyroid$ nodule$, unchanged since [**2134-1-4**]. 5.	0
+problem	temporal	Calcified right thyroid nodule	2134-1-4	@Calcified right thyroid nodule$, unchanged since [**@2134-1-4$**]. 5.	0
+problem	bodyloc	stones	Gallbladder	@Gallbladder$ filled with @stones$ and sludge. 6.	0
+problem	bodyloc	sludge	Gallbladder	@Gallbladder$ filled with stones and @sludge$. 6.	0
+problem	uncertain	paraplegia	?	Pending at time of discharge Brief Hospital Course: A/P: 70 yo female with h/o @paraplegia$, @?$	1
+problem	uncertain	bradycardic event	unclear	Patient had transient hypoxia in the ER, although etiology of hypoxic and @bradycardic event$ @unclear$.	0
+problem	uncertain	transient hypoxia	unclear	Patient had @transient hypoxia$ in the ER, although etiology of hypoxic and bradycardic event @unclear$.	1
+problem	uncertain	hypoxic	unclear	Patient had transient hypoxia in the ER, although etiology of @hypoxic$ and bradycardic event @unclear$.	1
+problem	uncertain	COPD flare	possible	@COPD flare$ @possible$.	0
+test	labvalue	tox screen	negative	Little evidence of PNA, @tox screen$ @negative$, patient denies overdose on medications, no evidence of PE by CTA.	0
+problem	negation	overdose	denies	Little evidence of PNA, tox screen negative, patient @denies$ @overdose$ on medications, no evidence of PE by CTA.	0
+problem	negation	evidence of PE	no	Little evidence of PNA, tox screen negative, patient denies overdose on medications, @no$ @evidence of PE$ by CTA.	0
+problem	negation	PNA	denies	Little evidence of @PNA$, tox screen negative, patient @denies$ overdose on medications, no evidence of PE by CTA.	1
+problem	negation	PNA	no	Little evidence of @PNA$, tox screen negative, patient denies overdose on medications, @no$ evidence of PE by CTA.	1
+test	negation	tox screen	denies	Little evidence of PNA, @tox screen$ negative, patient @denies$ overdose on medications, no evidence of PE by CTA.	1
+test	negation	tox screen	no	Little evidence of PNA, @tox screen$ negative, patient denies overdose on medications, @no$ evidence of PE by CTA.	1
+problem	negation	overdose	no	Little evidence of PNA, tox screen negative, patient denies @overdose$ on medications, @no$ evidence of PE by CTA.	1
+treatment	negation	medications	denies	Little evidence of PNA, tox screen negative, patient @denies$ overdose on @medications$, no evidence of PE by CTA.	1
+treatment	negation	medications	no	Little evidence of PNA, tox screen negative, patient denies overdose on @medications$, @no$ evidence of PE by CTA.	1
+problem	negation	evidence of PE	denies	Little evidence of PNA, tox screen negative, patient @denies$ overdose on medications, no @evidence of PE$ by CTA.	1
+test	labvalue	CTA	negative	Little evidence of PNA, tox screen @negative$, patient denies overdose on medications, no evidence of PE by @CTA$.	1
+test	negation	CTA	denies	Little evidence of PNA, tox screen negative, patient @denies$ overdose on medications, no evidence of PE by @CTA$.	1
+test	negation	CTA	no	Little evidence of PNA, tox screen negative, patient denies overdose on medications, @no$ evidence of PE by @CTA$.	1
+problem	negation	hypoxia	not	Patient was intubated for airway protection in the setting of mental status changes (@not$ for @hypoxia$) and was rapidly weaned from the ventilator and extubated without complication.	0
+problem	negation	complication	without	Patient was intubated for airway protection in the setting of mental status changes (not for hypoxia) and was rapidly weaned from the ventilator and extubated @without$ @complication$.	0
+treatment	negation	airway protection	not	Patient was intubated for @airway protection$ in the setting of mental status changes (@not$ for hypoxia) and was rapidly weaned from the ventilator and extubated without complication.	1
+treatment	negation	airway protection	without	Patient was intubated for @airway protection$ in the setting of mental status changes (not for hypoxia) and was rapidly weaned from the ventilator and extubated @without$ complication.	1
+problem	negation	mental status changes	not	Patient was intubated for airway protection in the setting of @mental status changes$ (@not$ for hypoxia) and was rapidly weaned from the ventilator and extubated without complication.	1
+problem	negation	mental status changes	without	Patient was intubated for airway protection in the setting of @mental status changes$ (not for hypoxia) and was rapidly weaned from the ventilator and extubated @without$ complication.	1
+problem	negation	hypoxia	without	Patient was intubated for airway protection in the setting of mental status changes (not for @hypoxia$) and was rapidly weaned from the ventilator and extubated @without$ complication.	1
+treatment	negation	the ventilator	not	Patient was intubated for airway protection in the setting of mental status changes (@not$ for hypoxia) and was rapidly weaned from @the ventilator$ and extubated without complication.	1
+treatment	negation	the ventilator	without	Patient was intubated for airway protection in the setting of mental status changes (not for hypoxia) and was rapidly weaned from @the ventilator$ and extubated @without$ complication.	1
+problem	negation	complication	not	Patient was intubated for airway protection in the setting of mental status changes (@not$ for hypoxia) and was rapidly weaned from the ventilator and extubated without @complication$.	1
+test	labvalue	SaO2	low 90s	Initially required 100% FiO2 by shovel mask to maintain @SaO2$ in @low 90s$ but oxygenation rapidly improved with SaO2 in low to mid 90s with 2L O2 by nasal cannula.	0
+test	labvalue	SaO2	low to mid 90s	Initially required 100% FiO2 by shovel mask to maintain SaO2 in low 90s but oxygenation rapidly improved with @SaO2$ in @low to mid 90s$ with 2L O2 by nasal cannula.	0
+test	labvalue	SaO2	low to mid 90s	Initially required 100% FiO2 by shovel mask to maintain @SaO2$ in low 90s but oxygenation rapidly improved with SaO2 in @low to mid 90s$ with 2L O2 by nasal cannula.	1
+test	labvalue	SaO2	low 90s	Initially required 100% FiO2 by shovel mask to maintain SaO2 in @low 90s$ but oxygenation rapidly improved with @SaO2$ in low to mid 90s with 2L O2 by nasal cannula.	1
+drug	dosage	Levofloxacin	taper	She will be discharged with @Levofloxacin$ and steroid @taper$ for presumed COPD flare. .	0
+drug	dosage	steroid	taper	She will be discharged with Levofloxacin and @steroid$ @taper$ for presumed COPD flare. .	0
+problem	uncertain	COPD flare	presumed	She will be discharged with Levofloxacin and steroid taper for @presumed$ @COPD flare$. .	0
+test	labvalue	Cardiac enzymes	negative	@Cardiac enzymes$ @negative$, no events on telemetry, no culture proven sepsis, no evidence adrenal insufficiency with cosyntropin stimulation.	0
+problem	negation	culture proven sepsis	no	Cardiac enzymes negative, no events on telemetry, @no$ @culture proven sepsis$, no evidence adrenal insufficiency with cosyntropin stimulation.	0
+problem	negation	adrenal insufficiency	no	Cardiac enzymes negative, no events on telemetry, no culture proven sepsis, @no$ evidence @adrenal insufficiency$ with cosyntropin stimulation.	0
+problem	bodyloc	adrenal insufficiency	adrenal	Cardiac enzymes negative, no events on telemetry, no culture proven sepsis, no evidence @@adrenal$ insufficiency$ with cosyntropin stimulation.	0
+test	negation	Cardiac enzymes	no	@Cardiac enzymes$ negative, no events on telemetry, @no$ culture proven sepsis, no evidence adrenal insufficiency with cosyntropin stimulation.	1
+test	negation	Cardiac enzymes	no	@Cardiac enzymes$ negative, no events on telemetry, no culture proven sepsis, @no$ evidence adrenal insufficiency with cosyntropin stimulation.	1
+test	labvalue	telemetry	negative	Cardiac enzymes @negative$, no events on @telemetry$, no culture proven sepsis, no evidence adrenal insufficiency with cosyntropin stimulation.	1
+test	negation	telemetry	no	Cardiac enzymes negative, no events on @telemetry$, @no$ culture proven sepsis, no evidence adrenal insufficiency with cosyntropin stimulation.	1
+test	negation	telemetry	no	Cardiac enzymes negative, no events on @telemetry$, no culture proven sepsis, @no$ evidence adrenal insufficiency with cosyntropin stimulation.	1
+problem	negation	culture proven sepsis	no	Cardiac enzymes negative, no events on telemetry, no @culture proven sepsis$, @no$ evidence adrenal insufficiency with cosyntropin stimulation.	1
+problem	bodyloc	culture proven sepsis	adrenal	Cardiac enzymes negative, no events on telemetry, no @culture proven sepsis$, no evidence @adrenal$ insufficiency with cosyntropin stimulation.	1
+problem	negation	adrenal insufficiency	no	Cardiac enzymes negative, no events on telemetry, @no$ culture proven sepsis, no evidence @adrenal insufficiency$ with cosyntropin stimulation.	1
+test	labvalue	cosyntropin stimulation	negative	Cardiac enzymes @negative$, no events on telemetry, no culture proven sepsis, no evidence adrenal insufficiency with @cosyntropin stimulation$.	1
+test	negation	cosyntropin stimulation	no	Cardiac enzymes negative, no events on telemetry, @no$ culture proven sepsis, no evidence adrenal insufficiency with @cosyntropin stimulation$.	1
+test	negation	cosyntropin stimulation	no	Cardiac enzymes negative, no events on telemetry, no culture proven sepsis, @no$ evidence adrenal insufficiency with @cosyntropin stimulation$.	1
+test	labvalue	SBP's	70	Initially started on levophed for blood pressure support (@SBP's$ in @70$'s, unresponsive to fluid boluses), but able to rapidly titrate off.	0
+problem	uncertain	infection	suspicion	At discharge, @suspicion$ for @infection$ was low, and plan is to complete a 5 day course of levofloxacin for community-acquired pneumonia, as presumed most likely source if there were a true infection. .	0
+drug	duration	levofloxacin	5 day course	At discharge, suspicion for infection was low, and plan is to complete a @5 day course$ of @levofloxacin$ for community-acquired pneumonia, as presumed most likely source if there were a true infection. .	0
+problem	uncertain	a true infection	likely source if	At discharge, suspicion for infection was low, and plan is to complete a 5 day course of levofloxacin for community-acquired pneumonia, as presumed most @likely source if$ there were @a true infection$. .	0
+problem	uncertain	infection	likely source if	At discharge, suspicion for @infection$ was low, and plan is to complete a 5 day course of levofloxacin for community-acquired pneumonia, as presumed most @likely source if$ there were a true infection. .	1
+problem	uncertain	community-acquired pneumonia	suspicion	At discharge, @suspicion$ for infection was low, and plan is to complete a 5 day course of levofloxacin for @community-acquired pneumonia$, as presumed most likely source if there were a true infection. .	1
+problem	uncertain	community-acquired pneumonia	likely source if	At discharge, suspicion for infection was low, and plan is to complete a 5 day course of levofloxacin for @community-acquired pneumonia$, as presumed most @likely source if$ there were a true infection. .	1
+problem	uncertain	a true infection	suspicion	At discharge, @suspicion$ for infection was low, and plan is to complete a 5 day course of levofloxacin for community-acquired pneumonia, as presumed most likely source if there were @a true infection$. .	1
+problem	uncertain	delirium	likely	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, @likely$ @delirium$ in the setting of hypotension vs infection vs seizure vs stroke.	0
+problem	uncertain	infection	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension @vs$ @infection$ vs seizure vs stroke.	0
+problem	uncertain	seizure	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension vs infection @vs$ @seizure$ vs stroke.	0
+problem	uncertain	stroke	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension vs infection vs seizure @vs$ @stroke$.	0
+problem	uncertain	delirium	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely @delirium$ in the setting of hypotension @vs$ infection vs seizure vs stroke.	1
+problem	uncertain	delirium	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely @delirium$ in the setting of hypotension vs infection @vs$ seizure vs stroke.	1
+problem	uncertain	delirium	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely @delirium$ in the setting of hypotension vs infection vs seizure @vs$ stroke.	1
+problem	uncertain	hypotension	likely	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, @likely$ delirium in the setting of @hypotension$ vs infection vs seizure vs stroke.	1
+problem	uncertain	hypotension	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of @hypotension$ @vs$ infection vs seizure vs stroke.	1
+problem	uncertain	hypotension	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of @hypotension$ vs infection @vs$ seizure vs stroke.	1
+problem	uncertain	hypotension	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of @hypotension$ vs infection vs seizure @vs$ stroke.	1
+problem	uncertain	infection	likely	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, @likely$ delirium in the setting of hypotension vs @infection$ vs seizure vs stroke.	1
+problem	uncertain	infection	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension vs @infection$ @vs$ seizure vs stroke.	1
+problem	uncertain	infection	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension vs @infection$ vs seizure @vs$ stroke.	1
+problem	uncertain	seizure	likely	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, @likely$ delirium in the setting of hypotension vs infection vs @seizure$ vs stroke.	1
+problem	uncertain	seizure	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension @vs$ infection vs @seizure$ vs stroke.	1
+problem	uncertain	seizure	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension vs infection vs @seizure$ @vs$ stroke.	1
+problem	uncertain	stroke	likely	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, @likely$ delirium in the setting of hypotension vs infection vs seizure vs @stroke$.	1
+problem	uncertain	stroke	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension @vs$ infection vs seizure vs @stroke$.	1
+problem	uncertain	stroke	vs	*MS changes: Initially w/ waxing and [**Doctor Last Name 688**] mental status changes, likely delirium in the setting of hypotension vs infection @vs$ seizure vs @stroke$.	1
+test	labvalue	Head CT	negative	@Head CT$ and LP were @negative$.	0
+test	labvalue	LP	negative	Head CT and @LP$ were @negative$.	0
+problem	uncertain	seizure focus	possible	Scheduled for outpatient MRI/MRA to assess for @possible$ @seizure focus$ vs. CVA.	0
+problem	uncertain	CVA	possible	Scheduled for outpatient MRI/MRA to assess for @possible$ seizure focus vs. @CVA$.	0
+problem	bodyloc	Rectal pain	Rectal	@@Rectal$ pain$: Patient developed burning rectal pain during course of admission.	0
+problem	bodyloc	burning rectal pain	rectal	Rectal pain: Patient developed @burning @rectal$ pain$ during course of admission.	0
+problem	bodyloc	Rectal pain	rectal	@Rectal pain$: Patient developed burning @rectal$ pain during course of admission.	1
+problem	bodyloc	burning rectal pain	Rectal	@Rectal$ pain: Patient developed @burning rectal pain$ during course of admission.	1
+problem	negation	evidence of fissure/hemorrhoids	No	@No$ @evidence of fissure/hemorrhoids$ by exam.	0
+test	negation	exam	No	@No$ evidence of fissure/hemorrhoids by @exam$.	1
+problem	negation	sensation in perineum	no	Patient historically has @no$ @sensation in perineum$	0
+problem	bodyloc	sensation in perineum	perineum	Patient historically has no @sensation in @perineum$$	0
+problem	temporal	paraplegia	1-6	[**@1-6$**] @paraplegia$.	1
+drug	problem	gabapentin	neuropathic pain	Likely due to referred @neuropathic pain$ in setting of held @gabapentin$ during acute illness.	0
+problem	course	acute illness	acute	Likely due to referred neuropathic pain in setting of held gabapentin during @@acute$ illness$.	0
+problem	course	neuropathic pain	acute	Likely due to referred @neuropathic pain$ in setting of held gabapentin during @acute$ illness.	1
+drug	strength	Polyethylene Glycol	3350 17 g (100%)	@Polyethylene Glycol$ @3350 17 g (100%)$	0
+drug	route	Zinc Sulfate	PO	@Zinc Sulfate$ 220 mg @PO$ DAILY 3.	0
+drug	strength	Zinc Sulfate	220 mg	@Zinc Sulfate$ @220 mg$ PO DAILY 3.	0
+drug	frequency	Zinc Sulfate	DAILY	@Zinc Sulfate$ 220 mg PO @DAILY$ 3.	0
+drug	strength	Baclofen	10 mg	@Baclofen$ @10 mg$ Tablet Sig: Four (4) Tablet PO TID (3 times a day). 4.	0
+drug	form	Baclofen	Tablet	@Baclofen$ 10 mg @Tablet$ Sig: Four (4) Tablet PO TID (3 times a day). 4.	0
+drug	route	Baclofen	PO	@Baclofen$ 10 mg Tablet Sig: Four (4) Tablet @PO$ TID (3 times a day). 4.	0
+drug	frequency	Baclofen	TID	@Baclofen$ 10 mg Tablet Sig: Four (4) Tablet PO @TID$ (3 times a day). 4.	0
+drug	dosage	Baclofen	Four (4)	@Baclofen$ 10 mg Tablet Sig: @Four (4)$ Tablet PO TID (3 times a day). 4.	0
+drug	form	Baclofen	Tablet	@Baclofen$ 10 mg Tablet Sig: Four (4) @Tablet$ PO TID (3 times a day). 4.	0
+drug	frequency	Baclofen	3 times a day	@Baclofen$ 10 mg Tablet Sig: Four (4) Tablet PO TID (@3 times a day$). 4.	0
+drug	frequency	Gabapentin	TID (3 times a day)	@Gabapentin$ 900 mg PO @TID (3 times a day)$. 5.	0
+drug	route	Gabapentin	PO	@Gabapentin$ 900 mg @PO$ TID (3 times a day). 5.	0
+drug	strength	Gabapentin	900 mg	@Gabapentin$ @900 mg$ PO TID (3 times a day). 5.	0
+drug	route	Nortriptyline	PO	@Nortriptyline$ 50 mg Capsule Sig: @PO$ HS  6.	0
+drug	frequency	Nortriptyline	HS	@Nortriptyline$ 50 mg Capsule Sig: PO @HS$  6.	0
+drug	strength	Nortriptyline	50 mg	@Nortriptyline$ @50 mg$ Capsule Sig: PO HS  6.	0
+drug	form	Nortriptyline	Capsule	@Nortriptyline$ 50 mg @Capsule$ Sig: PO HS  6.	0
+drug	route	Bupropion	PO	@Bupropion$ 100 mg Tablet Sustained Release @PO$ HS (at bedtime).	0
+drug	frequency	Bupropion	HS (at bedtime)	@Bupropion$ 100 mg Tablet Sustained Release PO @HS (at bedtime)$.	0
+drug	strength	Bupropion	100 mg	@Bupropion$ @100 mg$ Tablet Sustained Release PO HS (at bedtime).	0
+drug	form	Bupropion	Tablet Sustained Release	@Bupropion$ 100 mg @Tablet Sustained Release$ PO HS (at bedtime).	0
+drug	strength	Docusate Sodium	100 mg	@Docusate Sodium$ @100 mg$ Capsule Sig: One (1) Capsule PO BID (2 times a day). 8.	0
+drug	form	Docusate Sodium	Capsule	@Docusate Sodium$ 100 mg @Capsule$ Sig: One (1) Capsule PO BID (2 times a day). 8.	0
+drug	frequency	Docusate Sodium	BID	@Docusate Sodium$ 100 mg Capsule Sig: One (1) Capsule PO @BID$ (2 times a day). 8.	0
+drug	frequency	Docusate Sodium	2 times a day	@Docusate Sodium$ 100 mg Capsule Sig: One (1) Capsule PO BID (@2 times a day$). 8.	0
+drug	form	Docusate Sodium	Capsule	@Docusate Sodium$ 100 mg Capsule Sig: One (1) @Capsule$ PO BID (2 times a day). 8.	0
+drug	route	Docusate Sodium	PO	@Docusate Sodium$ 100 mg Capsule Sig: One (1) Capsule @PO$ BID (2 times a day). 8.	0
+drug	dosage	Docusate Sodium	One (1)	@Docusate Sodium$ 100 mg Capsule Sig: @One (1)$ Capsule PO BID (2 times a day). 8.	0
+drug	strength	Salmeterol	50 mcg/Dose	@Salmeterol$ @50 mcg/Dose$ Disk with Device Sig: One INH	0
+drug	dosage	Salmeterol	One	@Salmeterol$ 50 mcg/Dose Disk with Device Sig: @One$ INH	0
+drug	form	Salmeterol	Disk with Device	@Salmeterol$ 50 mcg/Dose @Disk with Device$ Sig: One INH	0
+drug	route	Salmeterol	INH	@Salmeterol$ 50 mcg/Dose Disk with Device Sig: One @INH$	0
+drug	dosage	Ipratropium Bromide	Two (2)	@Ipratropium Bromide$ 17 mcg/Actuation @Two (2)$Puff INH QID  10.	0
+drug	strength	Ipratropium Bromide	17 mcg/Actuation	@Ipratropium Bromide$ @17 mcg/Actuation$ Two (2)Puff INH QID  10.	0
+drug	route	Ipratropium Bromide	INH	@Ipratropium Bromide$ 17 mcg/Actuation Two (2)Puff @INH$ QID  10.	0
+drug	form	Ipratropium Bromide	Puff	@Ipratropium Bromide$ 17 mcg/Actuation Two (2)@Puff$ INH QID  10.	0
+drug	frequency	Ipratropium Bromide	QID	@Ipratropium Bromide$ 17 mcg/Actuation Two (2)Puff INH @QID$  10.	0
+drug	frequency	Bactrim DS	once a day	@Bactrim DS$ 160-800 mg PO @once a day$.	0
+drug	route	Bactrim DS	PO	@Bactrim DS$ 160-800 mg @PO$ once a day.	0
+drug	strength	Bactrim DS	160-800 mg	@Bactrim DS$ @160-800 mg$ PO once a day.	0
+drug	form	Furosemide	Tablet	@Furosemide$ 40 mg @Tablet$ PO once a day.	0
+drug	strength	Furosemide	40 mg	@Furosemide$ @40 mg$ Tablet PO once a day.	0
+drug	frequency	Furosemide	once a day	@Furosemide$ 40 mg Tablet PO @once a day$.	0
+drug	route	Furosemide	PO	@Furosemide$ 40 mg Tablet @PO$ once a day.	0
+drug	frequency	Senna	TID	@Senna$: 2-3 tabs PO @TID$ Discharge Medications: 1.	0
+drug	route	Senna	PO	@Senna$: 2-3 tabs @PO$ TID Discharge Medications: 1.	0
+drug	form	Senna	tabs	@Senna$: 2-3 @tabs$ PO TID Discharge Medications: 1.	0
+drug	dosage	Senna	2-3	@Senna$: @2-3$ tabs PO TID Discharge Medications: 1.	0
+drug	strength	Bisacodyl	10 mg	@Bisacodyl$ @10 mg$ Suppository Sig: One (1) Suppository Rectal DAILY (Daily). 2.	0
+drug	form	Bisacodyl	Suppository	@Bisacodyl$ 10 mg @Suppository$ Sig: One (1) Suppository Rectal DAILY (Daily). 2.	0
+drug	dosage	Bisacodyl	One (1)	@Bisacodyl$ 10 mg Suppository Sig: @One (1)$ Suppository Rectal DAILY (Daily). 2.	0
+drug	route	Bisacodyl	Rectal	@Bisacodyl$ 10 mg Suppository Sig: One (1) Suppository @Rectal$ DAILY (Daily). 2.	0
+drug	form	Bisacodyl	Suppository	@Bisacodyl$ 10 mg Suppository Sig: One (1) @Suppository$ Rectal DAILY (Daily). 2.	0
+drug	frequency	Bisacodyl	DAILY	@Bisacodyl$ 10 mg Suppository Sig: One (1) Suppository Rectal @DAILY$ (Daily). 2.	0
+drug	dosage	Gabapentin	Three (3)	@Gabapentin$ 300 mg Capsule Sig: @Three (3)$ Capsule PO TID (3 times a day).	0
+drug	strength	Gabapentin	300 mg	@Gabapentin$ @300 mg$ Capsule Sig: Three (3) Capsule PO TID (3 times a day).	0
+drug	form	Gabapentin	Capsule	@Gabapentin$ 300 mg @Capsule$ Sig: Three (3) Capsule PO TID (3 times a day).	0
+drug	form	Gabapentin	Capsule	@Gabapentin$ 300 mg Capsule Sig: Three (3) @Capsule$ PO TID (3 times a day).	0
+drug	frequency	Gabapentin	TID	@Gabapentin$ 300 mg Capsule Sig: Three (3) Capsule PO @TID$ (3 times a day).	0
+drug	frequency	Gabapentin	3 times a day	@Gabapentin$ 300 mg Capsule Sig: Three (3) Capsule PO TID (@3 times a day$).	0
+drug	route	Gabapentin	PO	@Gabapentin$ 300 mg Capsule Sig: Three (3) Capsule @PO$ TID (3 times a day).	0
+drug	strength	Salmeterol	50 mcg/Dose	@Salmeterol$ @50 mcg/Dose$ Disk with Device Sig: 1 puff Disk with Device Inhalation Q12H (every 12 hours).	0
+drug	form	Salmeterol	Disk with Device	@Salmeterol$ 50 mcg/Dose @Disk with Device$ Sig: 1 puff Disk with Device Inhalation Q12H (every 12 hours).	0
+drug	dosage	Salmeterol	1	@Salmeterol$ 50 mcg/Dose Disk with Device Sig: @1$ puff Disk with Device Inhalation Q12H (every 12 hours).	0
+drug	form	Salmeterol	puff	@Salmeterol$ 50 mcg/Dose Disk with Device Sig: 1 @puff$ Disk with Device Inhalation Q12H (every 12 hours).	0
+drug	route	Salmeterol	Disk	@Salmeterol$ 50 mcg/Dose Disk with Device Sig: 1 puff @Disk$ with Device Inhalation Q12H (every 12 hours).	0
+drug	dosage	Levofloxacin	One (1)	@Levofloxacin$ 500 mg Tablet Sig: @One (1)$ Tablet PO Q24H (every 24 hours) for 4 days:	0
+drug	duration	Levofloxacin	4 days	@Levofloxacin$ 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for @4 days$:	0
+drug	form	Levofloxacin	Tablet	@Levofloxacin$ 500 mg @Tablet$ Sig: One (1) Tablet PO Q24H (every 24 hours) for 4 days:	0
+drug	frequency	Levofloxacin	Q24H (every 24 hours)	@Levofloxacin$ 500 mg Tablet Sig: One (1) Tablet PO @Q24H (every 24 hours)$ for 4 days:	0
+drug	strength	Levofloxacin	500 mg	@Levofloxacin$ @500 mg$ Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 4 days:	0
+drug	route	Levofloxacin	PO	@Levofloxacin$ 500 mg Tablet Sig: One (1) Tablet @PO$ Q24H (every 24 hours) for 4 days:	0
+drug	form	Levofloxacin	Tablet	@Levofloxacin$ 500 mg Tablet Sig: One (1) @Tablet$ PO Q24H (every 24 hours) for 4 days:	0
+drug	dosage	Trimethoprim-Sulfamethoxazole	One (1)	@Trimethoprim-Sulfamethoxazole$ 160-800 mg Tablet Sig: @One (1)$ Tablet PO DAILY (Daily). 6.	0
+drug	form	Trimethoprim-Sulfamethoxazole	Tablet	@Trimethoprim-Sulfamethoxazole$ 160-800 mg @Tablet$ Sig: One (1) Tablet PO DAILY (Daily). 6.	0
+drug	strength	Trimethoprim-Sulfamethoxazole	160-800 mg	@Trimethoprim-Sulfamethoxazole$ @160-800 mg$ Tablet Sig: One (1) Tablet PO DAILY (Daily). 6.	0
+drug	form	Baclofen	Tablet	@Baclofen$ 20 mg Tablet Sig: Two (2) @Tablet$ PO three times a day. 7.	0
+drug	route	Baclofen	PO	@Baclofen$ 20 mg Tablet Sig: Two (2) Tablet @PO$ three times a day. 7.	0
+drug	frequency	Baclofen	three times a day	@Baclofen$ 20 mg Tablet Sig: Two (2) Tablet PO @three times a day$. 7.	0
+drug	strength	Baclofen	20 mg	@Baclofen$ @20 mg$ Tablet Sig: Two (2) Tablet PO three times a day. 7.	0
+drug	form	Baclofen	Tablet	@Baclofen$ 20 mg @Tablet$ Sig: Two (2) Tablet PO three times a day. 7.	0
+drug	dosage	Baclofen	Two (2)	@Baclofen$ 20 mg Tablet Sig: @Two (2)$ Tablet PO three times a day. 7.	0
+drug	strength	Docusate Sodium	100 mg	@Docusate Sodium$ @100 mg$ Capsule Sig: One (1) Capsule PO BID (2 times a day). 8.	0
+drug	dosage	Docusate Sodium	One (1)	@Docusate Sodium$ 100 mg Capsule Sig: @One (1)$ Capsule PO BID (2 times a day). 8.	0
+drug	form	Docusate Sodium	Capsule	@Docusate Sodium$ 100 mg @Capsule$ Sig: One (1) Capsule PO BID (2 times a day). 8.	0
+drug	route	Docusate Sodium	PO	@Docusate Sodium$ 100 mg Capsule Sig: One (1) Capsule @PO$ BID (2 times a day). 8.	0
+drug	form	Docusate Sodium	Capsule	@Docusate Sodium$ 100 mg Capsule Sig: One (1) @Capsule$ PO BID (2 times a day). 8.	0
+drug	frequency	Docusate Sodium	(2 times a day)	@Docusate Sodium$ 100 mg Capsule Sig: One (1) Capsule PO BID @(2 times a day)$. 8.	0
+drug	frequency	Docusate Sodium	BID	@Docusate Sodium$ 100 mg Capsule Sig: One (1) Capsule PO @BID$ (2 times a day). 8.	0
+drug	route	Senna	PO	@Senna$ 8.6 mg Tablet Sig: 2-3 Tablets @PO$ BID (2 times a day) as needed for constipation. 9.	0
+drug	dosage	Senna	2-3	@Senna$ 8.6 mg Tablet Sig: @2-3$ Tablets PO BID (2 times a day) as needed for constipation. 9.	0
+drug	form	Senna	Tablets	@Senna$ 8.6 mg Tablet Sig: 2-3 @Tablets$ PO BID (2 times a day) as needed for constipation. 9.	0
+drug	form	Senna	Tablet	@Senna$ 8.6 mg @Tablet$ Sig: 2-3 Tablets PO BID (2 times a day) as needed for constipation. 9.	0
+drug	strength	Senna	8.6 mg	@Senna$ @8.6 mg$ Tablet Sig: 2-3 Tablets PO BID (2 times a day) as needed for constipation. 9.	0
+drug	frequency	Senna	BID (2 times a day)	@Senna$ 8.6 mg Tablet Sig: 2-3 Tablets PO @BID (2 times a day)$ as needed for constipation. 9.	0
+drug	frequency	Senna	as needed	@Senna$ 8.6 mg Tablet Sig: 2-3 Tablets PO BID (2 times a day) @as needed$ for constipation. 9.	0
+drug	form	Furosemide	Tablet	@Furosemide$ 40 mg @Tablet$ Sig: One (1) Tablet PO DAILY (Daily). 10.	0
+drug	strength	Furosemide	40 mg	@Furosemide$ @40 mg$ Tablet Sig: One (1) Tablet PO DAILY (Daily). 10.	0
+drug	form	Furosemide	Tablet	@Furosemide$ 40 mg Tablet Sig: One (1) @Tablet$ PO DAILY (Daily). 10.	0
+drug	dosage	Furosemide	One (1)	@Furosemide$ 40 mg Tablet Sig: @One (1)$ Tablet PO DAILY (Daily). 10.	0
+drug	frequency	Furosemide	DAILY (Daily)	@Furosemide$ 40 mg Tablet Sig: One (1) Tablet PO @DAILY (Daily)$. 10.	0
+drug	route	Furosemide	PO	@Furosemide$ 40 mg Tablet Sig: One (1) Tablet @PO$ DAILY (Daily). 10.	0
+drug	form	Nortriptyline	Capsule	@Nortriptyline$ 25 mg Capsule Sig: Two (2) @Capsule$ PO HS (at bedtime). 11.	0
+drug	route	Nortriptyline	PO	@Nortriptyline$ 25 mg Capsule Sig: Two (2) Capsule @PO$ HS (at bedtime). 11.	0
+drug	form	Nortriptyline	Capsule	@Nortriptyline$ 25 mg @Capsule$ Sig: Two (2) Capsule PO HS (at bedtime). 11.	0
+drug	dosage	Nortriptyline	Two (2)	@Nortriptyline$ 25 mg Capsule Sig: @Two (2)$ Capsule PO HS (at bedtime). 11.	0
+drug	frequency	Nortriptyline	HS (at bedtime)	@Nortriptyline$ 25 mg Capsule Sig: Two (2) Capsule PO @HS (at bedtime)$. 11.	0
+drug	strength	Nortriptyline	25 mg	@Nortriptyline$ @25 mg$ Capsule Sig: Two (2) Capsule PO HS (at bedtime). 11.	0
+drug	frequency	Bupropion	QHS (once a day (at bedtime)	@Bupropion$ 100 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO @QHS (once a day (at bedtime)$). 12.	0
+drug	strength	Bupropion	100 mg	@Bupropion$ @100 mg$ Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO QHS (once a day (at bedtime)). 12.	0
+drug	dosage	Bupropion	One (1)	@Bupropion$ 100 mg Tablet Sustained Release Sig: @One (1)$ Tablet Sustained Release PO QHS (once a day (at bedtime)). 12.	0
+drug	form	Bupropion	Tablet Sustained Release	@Bupropion$ 100 mg @Tablet Sustained Release$ Sig: One (1) Tablet Sustained Release PO QHS (once a day (at bedtime)). 12.	0
+drug	route	Bupropion	PO	@Bupropion$ 100 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release @PO$ QHS (once a day (at bedtime)). 12.	0
+drug	form	Bupropion	Tablet Sustained Release	@Bupropion$ 100 mg Tablet Sustained Release Sig: One (1) @Tablet Sustained Release$ PO QHS (once a day (at bedtime)). 12.	0
+drug	strength	Polyethylene Glycol	3350 17 g (100%)	@Polyethylene Glycol$ @3350 17 g (100%)$	0
+drug	form	Ipratropium Bromide	Aerosol	@Ipratropium Bromide$ 17 mcg/Actuation @Aerosol$ Sig: Two (2) puffs Inhalation four times a day. 14.	0
+drug	strength	Ipratropium Bromide	17 mcg/Actuation	@Ipratropium Bromide$ @17 mcg/Actuation$ Aerosol Sig: Two (2) puffs Inhalation four times a day. 14.	0
+drug	dosage	Ipratropium Bromide	Two (2)	@Ipratropium Bromide$ 17 mcg/Actuation Aerosol Sig: @Two (2)$ puffs Inhalation four times a day. 14.	0
+drug	route	Ipratropium Bromide	puffs	@Ipratropium Bromide$ 17 mcg/Actuation Aerosol Sig: Two (2) @puffs$ Inhalation four times a day. 14.	0
+drug	frequency	Albuterol	every 4-6 hours	@Albuterol$ 90 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation @every 4-6 hours$ as needed for shortness of breath or wheezing.	0
+drug	form	Albuterol	puffs	@Albuterol$ 90 mcg/Actuation Aerosol Sig: Two (2) @puffs$ Inhalation every 4-6 hours as needed for shortness of breath or wheezing.	0
+drug	route	Albuterol	Inhalation	@Albuterol$ 90 mcg/Actuation Aerosol Sig: Two (2) puffs @Inhalation$ every 4-6 hours as needed for shortness of breath or wheezing.	0
+drug	form	Albuterol	Aerosol	@Albuterol$ 90 mcg/Actuation @Aerosol$ Sig: Two (2) puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing.	0
+drug	dosage	Albuterol	Two (2)	@Albuterol$ 90 mcg/Actuation Aerosol Sig: @Two (2)$ puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing.	0
+drug	strength	Albuterol	90 mcg/Actuation	@Albuterol$ @90 mcg/Actuation$ Aerosol Sig: Two (2) puffs Inhalation every 4-6 hours as needed for shortness of breath or wheezing.	0
+drug	frequency	Albuterol	as needed	@Albuterol$ 90 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation every 4-6 hours @as needed$ for shortness of breath or wheezing.	0
+drug	frequency	Prednisone	daily	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg @daily$ x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	duration	Prednisone	2 days	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x @2 days$; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	duration	Prednisone	10 days	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for @10 days$.	0
+drug	duration	Prednisone	2 days	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x @2 days$; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	frequency	Prednisone	daily	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg @daily$ x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	strength	Prednisone	10 mg	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; @10 mg$ daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	strength	Prednisone	5 mg	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; @5 mg$ daily x 2 days Tablets PO once a day for 10 days.	0
+drug	frequency	Prednisone	daily	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg @daily$ x 2 days Tablets PO once a day for 10 days.	0
+drug	form	Prednisone	Tablet	@Prednisone$ 5 mg @Tablet$ Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	duration	Prednisone	2 days	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x @2 days$ Tablets PO once a day for 10 days.	0
+drug	strength	Prednisone	40 mg	@Prednisone$ 5 mg Tablet Sig: @40 mg$ daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	strength	Prednisone	5 mg	@Prednisone$ @5 mg$ Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	dosage	Prednisone	once a day	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO @once a day$ for 10 days.	0
+drug	frequency	Prednisone	daily	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg @daily$ x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	strength	Prednisone	30 mg	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; @30 mg$ daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	form	Prednisone	Tablets	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days @Tablets$ PO once a day for 10 days.	0
+drug	duration	Prednisone	2 days	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x @2 days$; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	frequency	Prednisone	daily	@Prednisone$ 5 mg Tablet Sig: 40 mg @daily$ x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	strength	Prednisone	20 mg	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; @20 mg$ daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+drug	route	Prednisone	PO	@Prednisone$ 5 mg Tablet Sig: 40 mg daily x 2 days; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets @PO$ once a day for 10 days.	0
+drug	duration	Prednisone	x 2 days	@Prednisone$ 5 mg Tablet Sig: 40 mg daily @x 2 days$; 30 mg daily x 2 days; 20 mg daily x 2 days; 10 mg daily x 2 days; 5 mg daily x 2 days Tablets PO once a day for 10 days.	0
+problem	bodyloc	Respiratory failure	Respiratory	[**Company 1519**] Discharge Diagnosis: @@Respiratory$ failure$ Altered mental status Pneumonia	0
+problem	bodyloc	Altered mental status	Respiratory	[**Company 1519**] Discharge Diagnosis: @Respiratory$ failure @Altered mental status$ Pneumonia	1
+problem	bodyloc	Pneumonia	Respiratory	[**Company 1519**] Discharge Diagnosis: @Respiratory$ failure Altered mental status @Pneumonia$	1
+drug	dosage	steroid	taper	Paraplegia Discharge Condition: Stable Discharge Instructions: You are being treated for a COPD exacerbation with a @steroid$ @taper$ and a 5-day course of antibiotics.	0
+drug	duration	antibiotics	5-day	Paraplegia Discharge Condition: Stable Discharge Instructions: You are being treated for a COPD exacerbation with a steroid taper and a @5-day$ course of @antibiotics$.	0
+drug	duration	steroid	5-day	Paraplegia Discharge Condition: Stable Discharge Instructions: You are being treated for a COPD exacerbation with a @steroid$ taper and a @5-day$ course of antibiotics.	1
+drug	dosage	antibiotics	taper	Paraplegia Discharge Condition: Stable Discharge Instructions: You are being treated for a COPD exacerbation with a steroid @taper$ and a 5-day course of @antibiotics$.	1
+drug	dosage	steroid	taper	Please take the @steroid$ @taper$ exactly as prescribed, as it is very dangerous to discontinue this medication abruptly.	0
+drug	dosage	this medication	taper	Please take the steroid @taper$ exactly as prescribed, as it is very dangerous to discontinue @this medication$ abruptly.	1
+drug	duration	levofloxacin	4 days	You have @4 days$ of @levofloxacin$ remaining, with your next dose due tomorrow. .	0
+drug	temporal	home medications	previous	You should resume all of your @previous$ @home medications$. .	0
+problem	condition	shortness of breath	if	Please seek urgent medical attention @if$ you experience @shortness of breath$, chest pain, dizziness, or changes in your mental status.	0
+problem	condition	chest pain	if	Please seek urgent medical attention @if$ you experience shortness of breath, @chest pain$, dizziness, or changes in your mental status.	0
+problem	condition	dizziness	if	Please seek urgent medical attention @if$ you experience shortness of breath, chest pain, @dizziness$, or changes in your mental status.	0
+problem	condition	changes in your mental	if	Please seek urgent medical attention @if$ you experience shortness of breath, chest pain, dizziness, or @changes in your mental$ status.	0
+problem	bodyloc	chest pain	chest	Please seek urgent medical attention if you experience shortness of breath, @@chest$ pain$, dizziness, or changes in your mental status.	0
+problem	bodyloc	shortness of breath	chest	Please seek urgent medical attention if you experience @shortness of breath$, @chest$ pain, dizziness, or changes in your mental status.	1
+problem	bodyloc	dizziness	chest	Please seek urgent medical attention if you experience shortness of breath, @chest$ pain, @dizziness$, or changes in your mental status.	1
+problem	bodyloc	changes in your mental	chest	Please seek urgent medical attention if you experience shortness of breath, @chest$ pain, dizziness, or @changes in your mental$ status.	1
+test	temporal	an outpatient MRI of your head and neck	12-18	Followup Instructions: You are scheduled for @an outpatient MRI of your head and neck$ this coming [**Last Name (LF) 1017**], [**@12-18$**] at 9:45 a.m.	0
+test	temporal	an outpatient MRI of your head and neck	9:45 a.m	Followup Instructions: You are scheduled for @an outpatient MRI of your head and neck$ this coming [**Last Name (LF) 1017**], [**12-18**] at @9:45 a.m$.	0

@@ -1,0 +1,12 @@
+The	O
+patient	O
+was	O
+ambulatory	O
+by	O
+postoperative	O
+day	O
+5	O
+with	O
+physical	B-treatment
+therapy	I-treatment
+.	O

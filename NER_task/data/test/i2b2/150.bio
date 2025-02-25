@@ -1,0 +1,12 @@
+Lungs	O
+:	O
+bilateral	O
+:	O
+no	O
+crackles	B-problem
+present	O
+,	O
+no	O
+wheezes	B-problem
+present	O
+.	O

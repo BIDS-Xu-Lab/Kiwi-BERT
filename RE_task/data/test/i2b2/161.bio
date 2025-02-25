@@ -1,0 +1,16 @@
+UTI	B-problem
+[	I-problem
+Urinary	I-problem
+tract	I-problem
+infection	I-problem
+]	I-problem
+(	O
+ICD9	O
+599	O
+.	O
+0	O
+,	O
+Working	O
+,	O
+Problem	O
+)	O

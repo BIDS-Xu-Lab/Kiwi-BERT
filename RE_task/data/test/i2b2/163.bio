@@ -1,0 +1,16 @@
+A	B-problem
+fever	I-problem
+,	O
+NO	O
+elevation	B-problem
+of	I-problem
+WBC	I-problem
+,	O
+On	O
+bactrim	B-drug
+BID	O
+,	O
+Urine	B-test
+look	O
+clear	O
+.	O

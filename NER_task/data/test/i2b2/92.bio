@@ -1,0 +1,11 @@
+The	O
+patient	O
+was	O
+anticoagulated	O
+with	O
+Coumadin	B-drug
+for	O
+DVT	B-treatment
+prophylaxis	I-treatment
+postoperatively	O
+.	O

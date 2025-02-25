@@ -1,0 +1,13 @@
+-	O
+Hold	O
+Metformin	B-drug
+due	O
+to	O
+MS	B-problem
+unstable	I-problem
+and	O
+renal	B-test
+function	I-test
+not	O
+optimal	O
+.	O

@@ -1,0 +1,13 @@
+BENIGN	B-problem
+ESSENTIAL	I-problem
+HYPERTENSION	I-problem
+(	O
+ICD9	O
+401	O
+.	O
+1	O
+,	O
+Working	O
+,	O
+Problem	O
+)	O

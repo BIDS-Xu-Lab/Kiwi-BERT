@@ -1,0 +1,8 @@
+Pt	B-treatment
+home	I-treatment
+regimen	I-treatment
+as	O
+Lopressor	B-drug
+and	O
+Lisinopril	B-drug
+.	O
